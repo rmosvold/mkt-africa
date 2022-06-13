@@ -1,0 +1,150 @@
+#+title: Coding and article notes
+#+author: Reidar Mosvold
+
+* Introduction
+This file contains coding notes for the articles that are included in the literature review. Each heading below is linked to the pdf file of each article in the review by *org-noter*. The Bibtex citation for the article is used as heading.
+
+* alex2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/alex2019.pdf
+:END:
+
+* bansilal2014
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/bansilal2014.pdf
+:END:
+
+* bowie2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/bowie2019.pdf
+:END:
+
+* chigonga2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/chigonga2019.pdf
+:END:
+
+* chikiwa2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/chikiwa2019.pdf
+:END:
+
+* defreitas2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/defreitas2019.pdf
+:END:
+
+* dhurumraj2020
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/dhurumraj2020.pdf
+:END:
+
+* feza2016
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/feza2016.pdf
+:END:
+
+* feza2018
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/feza2018.pdf
+:END:
+
+* fonseca2015
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/fonseca2015.pdf
+:END:
+
+* fonseca2021
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/fonseca2021.pdf
+:END:
+
+* helmbold2021
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/helmbold2021.pdf
+:END:
+
+* jacinto2020
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/jacinto2020.pdf
+:END:
+
+* jita2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/jita2019.pdf
+:END:
+
+* joubert2020
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/joubert2020.pdf
+:END:
+
+* kalobo2016
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/kalobo2016.pdf
+:END:
+
+* makonye2020b
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/makonye2020b.pdf
+:END:
+
+* msimango2020
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/msimango2020.pdf
+:END:
+
+* mwadzaangati2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/mwadzaangati2019.pdf
+:END:
+
+* ngema2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/ngema2019.pdf
+:END:
+
+* pournara2015
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/pournara2015.pdf
+:END:
+
+* setoromo2018
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/setoromo2018.pdf
+:END:
+
+* sibanda2021
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/sibanda2021.pdf
+:END:
+
+* siyepui2021
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/siyepui2021.pdf
+:END:
+
+* spangenberg2021
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/spangenberg2021.pdf
+:END:
+
+* tachie2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/tachie2019.pdf
+:END:
+
+* ubah2018
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/ubah2018.pdf
+:END:
+
+* venkat2015
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/venkat2015.pdf
+:END:
+
+* vermeulen2017
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/vermeulen2017.pdf
+:END:
