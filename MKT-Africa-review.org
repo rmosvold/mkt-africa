@@ -1482,7 +1482,7 @@ Below are the hits from my search in AJRMSTE:
 #+end_src
 
 * Inclusion
-Based on the three searches conducted and documented above, I gathered all initial search results into one Bibtex file, removed duplicates and adjusted and simplified Bibtex entries of each (following the format of firstauthorYear). This gave an initial collection of 81 potential articles to code for inclusion
+Based on the three searches conducted and documented above, I gathered all initial search results into one Bibtex file, removed duplicates and adjusted and simplified Bibtex entries of each (following the format of firstauthorYear). This gave an initial collection of 82 potential articles to code for inclusion
 
 | No. | Citation                 | Inclusion | Comment                               |
 |-----+--------------------------+-----------+---------------------------------------|
