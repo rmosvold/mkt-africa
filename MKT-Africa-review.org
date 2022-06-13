@@ -1512,7 +1512,7 @@ Based on the three searches conducted and documented above, I gathered all initi
 |  24 | [[cite:&feza2018]]           | 1         | Development of knowledge              |
 |  25 | [[cite:&fonseca2015]]        | 1         | Improving knowledge in ITE            |
 |  26 | [[cite:&fonseca2021]]        | 1         | Content and pedagogical knowledge     |
-|  27 | [[cite:&galant2013]]         | 1         | Knowledge use                         |
+|  27 | [[cite:&galant2013]]         | 0         | Relevant, but from before 2014        |
 |  28 | [[cite:&govender2019]]       | nMKT      | Views about formative assessment      |
 |  29 | [[cite:&govender2020]]       | nMKT      | Perceptions of formative assessment   |
 |  30 | [[cite:&helmbold2021]]       | 1         | Influence of LS on knowledge          |
@@ -1527,7 +1527,7 @@ Based on the three searches conducted and documented above, I gathered all initi
 |  39 | [[cite:&long2019]]           | nMKT      | Teacher qualification and context     |
 |  40 | [[cite:&machaba2019]]        | nMKT      | Teacher views                         |
 |  41 | [[cite:&madusise2020]]       | nMKT      | Textbook analysis                     |
-|  42 | [[cite:&mahlaba2020]]        | 1         | Unclear, but possibly MKT?            |
+|  42 | [[cite:&mahlaba2020]]        | nMKT      | Teaching, but not MKT                 |
 |  43 | [[cite:&mahlambi2021]]       | nMKT      | Assessment for learning               |
 |  44 | [[cite:&mahofa2018]]         | nMKT      | Focus on learners                     |
 |  45 | [[cite:&makonye2020]]        | nMKT      | Mathematical learning                 |
@@ -1569,7 +1569,7 @@ Based on the three searches conducted and documented above, I gathered all initi
 |  81 | [[cite:&venkat2015]]         | 1         | Developing MKT in TE                  |
 |  82 | [[cite:&vermeulen2017]]      | 1         | MKT and students' misconceptions      |
 
-After going through all the abstracts, n=32 studies are included. (A few are uncertain, so final inclusion will be decided after coding of full articles.)
+After going through all the abstracts, n=30 studies are included. (A few are uncertain, so final inclusion will be decided after coding of full articles.)
 
 * Coding
 | No. | Citation               | Pdf | Comment                           |
@@ -1585,28 +1585,25 @@ After going through all the abstracts, n=32 studies are included. (A few are unc
 |   9 | [[cite:&feza2018]]         |   1 | Development of knowledge          |
 |  10 | [[cite:&fonseca2015]]      |   1 | Improving knowledge in ITE        |
 |  11 | [[cite:&fonseca2021]]      |   1 | Content and pedagogical knowledge |
-|  12 | [[cite:&galant2013]]       |   1 | Knowledge use                     |
-|  13 | [[cite:&helmbold2021]]     |   1 | Influence of LS on knowledge      |
-|  14 | [[cite:&jacinto2020]]      |   1 | Understanding of MKT              |
-|  15 | [[cite:&jita2019]]         |   1 | Development of MKT                |
-|  16 | [[cite:&joubert2020]]      |   1 | TPACK                             |
-|  17 | [[cite:&kalobo2016]]       |   1 | Knowledge of learners             |
-|  18 | [[cite:&mahlaba2020]]      |   0 | Unclear, but possibly MKT?        |
-|  19 | [[cite:&makonye2020b]]     |   1 | COACTIV                           |
-|  20 | [[cite:&msimango2020]]     |   1 | Development of MKT                |
-|  21 | [[cite:&mwadzaangati2019]] |   1 | MKT for geometric proof           |
-|  22 | [[cite:&ngema2019]]        |   1 | Teachers' lack of MKT             |
-|  23 | [[cite:&pournara2015]]     |   1 | Impact of MKT on learning         |
-|  24 | [[cite:&setoromo2018]]     |   1 | What knowledge teachers have      |
-|  25 | [[cite:&setoromo2020]]     |   1 | Possibly, but unclear             |
-|  26 | [[cite:&sibanda2021]]      |   1 | Learning of MKT                   |
-|  27 | [[cite:&siyepui2021]]      |   1 | Development of MKT                |
-|  28 | [[cite:&spangenberg2021]]  |   1 | Influence of MKT on practice      |
-|  29 | [[cite:&tachie2019]]       |   1 | Meta-cognitive skills             |
-|  30 | [[cite:&ubah2018]]         |   1 | PSTs' MKT fractions               |
-|  31 | [[cite:&venkat2015]]       |   1 | Developing MKT in TE              |
-|  32 | [[cite:&vermeulen2017]]    |   1 | MKT and students' misconceptions  |
-# Could not find [[cite:&mahlaba2020]]. Check Michigan library!
+|  12 | [[cite:&helmbold2021]]     |   1 | Influence of LS on knowledge      |
+|  13 | [[cite:&jacinto2020]]      |   1 | Understanding of MKT              |
+|  14 | [[cite:&jita2019]]         |   1 | Development of MKT                |
+|  15 | [[cite:&joubert2020]]      |   1 | TPACK                             |
+|  16 | [[cite:&kalobo2016]]       |   1 | Knowledge of learners             |
+|  17 | [[cite:&makonye2020b]]     |   1 | COACTIV                           |
+|  18 | [[cite:&msimango2020]]     |   1 | Development of MKT                |
+|  19 | [[cite:&mwadzaangati2019]] |   1 | MKT for geometric proof           |
+|  20 | [[cite:&ngema2019]]        |   1 | Teachers' lack of MKT             |
+|  21 | [[cite:&pournara2015]]     |   1 | Impact of MKT on learning         |
+|  22 | [[cite:&setoromo2018]]     |   1 | What knowledge teachers have      |
+|  23 | [[cite:&setoromo2020]]     |   1 | Possibly, but unclear             |
+|  24 | [[cite:&sibanda2021]]      |   1 | Learning of MKT                   |
+|  25 | [[cite:&siyepui2021]]      |   1 | Development of MKT                |
+|  26 | [[cite:&spangenberg2021]]  |   1 | Influence of MKT on practice      |
+|  27 | [[cite:&tachie2019]]       |   1 | Meta-cognitive skills             |
+|  28 | [[cite:&ubah2018]]         |   1 | PSTs' MKT fractions               |
+|  29 | [[cite:&venkat2015]]       |   1 | Developing MKT in TE              |
+|  30 | [[cite:&vermeulen2017]]    |   1 | MKT and students' misconceptions  |
 
 * References
 bibliographystyle:bath
