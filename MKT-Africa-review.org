@@ -1572,38 +1572,38 @@ Based on the three searches conducted and documented above, I gathered all initi
 After going through all the abstracts, n=30 studies are included. (A few are uncertain, so final inclusion will be decided after coding of full articles.)
 
 * Coding
-| No. | Citation               | Inclusion | Country | Genre | Causal | Sample | Instrument | Level | Teachers | Problem | Comment                           |
-|-----+------------------------+-----------+---------+-------+--------+--------+------------+-------+----------+---------+-----------------------------------|
-|   1 | [[cite:&alex2019]]         |         1 |         |       |        |        |            |       |          |         |                                   |
-|   2 | [[cite:&bansilal2014]]     |         1 |         |       |        |        |            |       |          |         |                                   |
-|   3 | [[cite:&bowie2019]]        |         1 |         |       |        |        |            |       |          |         |                                   |
-|   4 | [[cite:&chigonga2019]]     |         1 |         |       |        |        |            |       |          |         | Influence of knowledge            |
-|   5 | [[cite:&chikiwa2019]]      |         1 |         |       |        |        |            |       |          |         |                                   |
-|   6 | [[cite:&defreitas2019]]    |         1 |         |       |        |        |            |       |          |         | TPACK                             |
-|   7 | [[cite:&dhurumraj2020]]    |         1 |         |       |        |        |            |       |          |         | TPACK (but is it Africa?)         |
-|   8 | [[cite:&feza2016]]         |         1 |         |       |        |        |            |       |          |         |                                   |
-|   9 | [[cite:&feza2018]]         |         1 |         |       |        |        |            |       |          |         | Development of knowledge          |
-|  10 | [[cite:&fonseca2015]]      |         1 |         |       |        |        |            |       |          |         | Improving knowledge in ITE        |
-|  11 | [[cite:&fonseca2021]]      |         1 |         |       |        |        |            |       |          |         | Content and pedagogical knowledge |
-|  12 | [[cite:&helmbold2021]]     |         1 |         |       |        |        |            |       |          |         | Influence of LS on knowledge      |
-|  13 | [[cite:&jacinto2020]]      |         1 |         |       |        |        |            |       |          |         | Understanding of MKT              |
-|  14 | [[cite:&jita2019]]         |         1 |         |       |        |        |            |       |          |         | Development of MKT                |
-|  15 | [[cite:&joubert2020]]      |         1 |         |       |        |        |            |       |          |         | TPACK                             |
-|  16 | [[cite:&kalobo2016]]       |         1 |         |       |        |        |            |       |          |         | Knowledge of learners             |
-|  17 | [[cite:&makonye2020b]]     |         1 |         |       |        |        |            |       |          |         | COACTIV                           |
-|  18 | [[cite:&msimango2020]]     |         1 |         |       |        |        |            |       |          |         | Development of MKT                |
-|  19 | [[cite:&mwadzaangati2019]] |         1 |         |       |        |        |            |       |          |         | MKT for geometric proof           |
-|  20 | [[cite:&ngema2019]]        |         1 |         |       |        |        |            |       |          |         | Teachers' lack of MKT             |
-|  21 | [[cite:&pournara2015]]     |         1 |         |       |        |        |            |       |          |         | Impact of MKT on learning         |
-|  22 | [[cite:&setoromo2018]]     |         1 |         |       |        |        |            |       |          |         | What knowledge teachers have      |
-|  23 | [[cite:&setoromo2020]]     |         1 |         |       |        |        |            |       |          |         | Possibly, but unclear             |
-|  24 | [[cite:&sibanda2021]]      |         1 |         |       |        |        |            |       |          |         | Learning of MKT                   |
-|  25 | [[cite:&siyepui2021]]      |         1 |         |       |        |        |            |       |          |         | Development of MKT                |
-|  26 | [[cite:&spangenberg2021]]  |         1 |         |       |        |        |            |       |          |         | Influence of MKT on practice      |
-|  27 | [[cite:&tachie2019]]       |         1 |         |       |        |        |            |       |          |         | Meta-cognitive skills             |
-|  28 | [[cite:&ubah2018]]         |         1 |         |       |        |        |            |       |          |         | PSTs' MKT fractions               |
-|  29 | [[cite:&venkat2015]]       |         1 |         |       |        |        |            |       |          |         | Developing MKT in TE              |
-|  30 | [[cite:&vermeulen2017]]    |         1 |         |       |        |        |            |       |          |         | MKT and students' misconceptions  |
+| No. | Citation               | Inclusion | Country | Genre | Causal | Sample  | Instrument   | Level | Teachers | Problem              | Comment                           |
+|-----+------------------------+-----------+---------+-------+--------+---------+--------------+-------+----------+----------------------+-----------------------------------|
+|   1 | [[cite:&alex2019]]         |         1 | RSA     | oth   | sta    | md2(40) | content test | all   | fut      | What teachers wknow? |                                   |
+|   2 | [[cite:&bansilal2014]]     |         1 |         |       |        |         |              |       |          |                      |                                   |
+|   3 | [[cite:&bowie2019]]        |         1 |         |       |        |         |              |       |          |                      |                                   |
+|   4 | [[cite:&chigonga2019]]     |         1 |         |       |        |         |              |       |          |                      | Influence of knowledge            |
+|   5 | [[cite:&chikiwa2019]]      |         1 |         |       |        |         |              |       |          |                      |                                   |
+|   6 | [[cite:&defreitas2019]]    |         1 |         |       |        |         |              |       |          |                      | TPACK                             |
+|   7 | [[cite:&dhurumraj2020]]    |         1 |         |       |        |         |              |       |          |                      | TPACK (but is it Africa?)         |
+|   8 | [[cite:&feza2016]]         |         1 |         |       |        |         |              |       |          |                      |                                   |
+|   9 | [[cite:&feza2018]]         |         1 |         |       |        |         |              |       |          |                      | Development of knowledge          |
+|  10 | [[cite:&fonseca2015]]      |         1 |         |       |        |         |              |       |          |                      | Improving knowledge in ITE        |
+|  11 | [[cite:&fonseca2021]]      |         1 |         |       |        |         |              |       |          |                      | Content and pedagogical knowledge |
+|  12 | [[cite:&helmbold2021]]     |         1 |         |       |        |         |              |       |          |                      | Influence of LS on knowledge      |
+|  13 | [[cite:&jacinto2020]]      |         1 |         |       |        |         |              |       |          |                      | Understanding of MKT              |
+|  14 | [[cite:&jita2019]]         |         1 |         |       |        |         |              |       |          |                      | Development of MKT                |
+|  15 | [[cite:&joubert2020]]      |         1 |         |       |        |         |              |       |          |                      | TPACK                             |
+|  16 | [[cite:&kalobo2016]]       |         1 |         |       |        |         |              |       |          |                      | Knowledge of learners             |
+|  17 | [[cite:&makonye2020b]]     |         1 |         |       |        |         |              |       |          |                      | COACTIV                           |
+|  18 | [[cite:&msimango2020]]     |         1 |         |       |        |         |              |       |          |                      | Development of MKT                |
+|  19 | [[cite:&mwadzaangati2019]] |         1 |         |       |        |         |              |       |          |                      | MKT for geometric proof           |
+|  20 | [[cite:&ngema2019]]        |         1 |         |       |        |         |              |       |          |                      | Teachers' lack of MKT             |
+|  21 | [[cite:&pournara2015]]     |         1 |         |       |        |         |              |       |          |                      | Impact of MKT on learning         |
+|  22 | [[cite:&setoromo2018]]     |         1 |         |       |        |         |              |       |          |                      | What knowledge teachers have      |
+|  23 | [[cite:&setoromo2020]]     |         1 |         |       |        |         |              |       |          |                      | Possibly, but unclear             |
+|  24 | [[cite:&sibanda2021]]      |         1 |         |       |        |         |              |       |          |                      | Learning of MKT                   |
+|  25 | [[cite:&siyepui2021]]      |         1 |         |       |        |         |              |       |          |                      | Development of MKT                |
+|  26 | [[cite:&spangenberg2021]]  |         1 |         |       |        |         |              |       |          |                      | Influence of MKT on practice      |
+|  27 | [[cite:&tachie2019]]       |         1 |         |       |        |         |              |       |          |                      | Meta-cognitive skills             |
+|  28 | [[cite:&ubah2018]]         |         1 |         |       |        |         |              |       |          |                      | PSTs' MKT fractions               |
+|  29 | [[cite:&venkat2015]]       |         1 |         |       |        |         |              |       |          |                      | Developing MKT in TE              |
+|  30 | [[cite:&vermeulen2017]]    |         1 |         |       |        |         |              |       |          |                      | MKT and students' misconceptions  |
 
 * References
 bibliographystyle:bath
