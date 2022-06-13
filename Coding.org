@@ -113,6 +113,10 @@ This file contains coding notes for the articles that are included in the litera
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/setoromo2018.pdf
 :END:
+* setoromo2020
+:PROPERTIES:
+:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/setoromo2020.pdf
+:END:
 
 * sibanda2021
 :PROPERTIES:
