@@ -7,7 +7,7 @@ This file contains coding notes for the articles that are included in the litera
 * Coding
 | No. | Citation               | Inclusion | Country | Genre | Causal | Sample  | Instrument   | Level | Teachers | Problem              | Comment                           |
 |-----+------------------------+-----------+---------+-------+--------+---------+--------------+-------+----------+----------------------+-----------------------------------|
-|   1 | [[cite:&alex2019]]         |         1 | RSA     | oth   | sta    | md2(40) | content test | all   | fut      | What teachers wknow? |                                   |
+|   1 | [[cite:&alex2019]]         |         1 | RSA     | oth   | sta    | md2(40) | content test | all   | fut      | What teachers know?  |                                   |
 |   2 | [[cite:&bansilal2014]]     |         1 |         |       |        |         |              |       |          |                      |                                   |
 |   3 | [[cite:&bowie2019]]        |         1 |         |       |        |         |              |       |          |                      |                                   |
 |   4 | [[cite:&chigonga2019]]     |         1 |         |       |        |         |              |       |          |                      | Influence of knowledge            |
