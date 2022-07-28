@@ -17,12 +17,12 @@ This file contains coding notes for the articles that are included in the litera
 |   8 | [[cite:&feza2016]]         |         1 | RSA     | oth   | qal    | md1(17)  | scenario based questionnaire | prm   | prc      | What teachers know? | Claims about influence, but only study what teachers know |
 |   9 | [[cite:&feza2018]]         |         1 | RSA     | dev   | qal    | md1(14)  | COEMET                       | prm   | prc      | What PD?            | Development of knowledge                                  |
 |  10 | [[cite:&fonseca2015]]      |         1 | RSA     | dev   | sta    | lrg(108) | content test                 | mid   | fut      | What PD?            | Improving knowledge in ITE                                |
-|  11 | [[cite:&fonseca2021]]      |         1 |         |       |        |          |                              |       |          |                     | Content and pedagogical knowledge                         |
-|  12 | [[cite:&helmbold2021]]     |         1 |         |       |        |          |                              |       |          |                     | Influence of LS on knowledge                              |
-|  13 | [[cite:&jacinto2020]]      |         1 |         |       |        |          |                              |       |          |                     | Understanding of MKT                                      |
-|  14 | [[cite:&jita2019]]         |         1 |         |       |        |          |                              |       |          |                     | Development of MKT                                        |
-|  15 | [[cite:&joubert2020]]      |         1 |         |       |        |          |                              |       |          |                     | TPACK                                                     |
-|  16 | [[cite:&kalobo2016]]       |         1 |         |       |        |          |                              |       |          |                     | Knowledge of learners                                     |
+|  11 | [[cite:&fonseca2021]]      |         1 | RSA     | dev   | qal    | md2(62)  | self-report                  | prm   | fut      | What TE?            | Content and pedagogical knowledge                         |
+|  12 | [[cite:&helmbold2021]]     |         1 | RSA     | dev   | qal    | sma(6)   | none                         | prm   | prc      | What PD?            | Influence of LS on knowledge                              |
+|  13 | [[cite:&jacinto2020]]      |         1 | MAW     | oth   | qal    | sma(6)   | survey and interview         | prm   | fut      | What teachers know? | Understanding of MKT                                      |
+|  14 | [[cite:&jita2019]]         |         1 | RSA     | dev   | qal    | lrg(125) | portfolio                    | all   | prc      | What PD?            | Development of MKT                                        |
+|  15 | [[cite:&joubert2020]]      |      nMKT |         |       |        |          |                              |       |          |                     | The study is not about MKT after all!                     |
+|  16 | [[cite:&kalobo2016]]       |         1 | RSA     | oth   | sta    | md2(66)  | survey                       | sec   | prc      | What teachers know? | Knowledge of learners                                     |
 |  17 | [[cite:&makonye2020b]]     |         1 |         |       |        |          |                              |       |          |                     | COACTIV                                                   |
 |  18 | [[cite:&msimango2020]]     |         1 |         |       |        |          |                              |       |          |                     | Development of MKT                                        |
 |  19 | [[cite:&mwadzaangati2019]] |         1 |         |       |        |          |                              |       |          |                     | MKT for geometric proof                                   |
@@ -407,31 +407,209 @@ Seems from the results that the primary focus is on statistical analysis.
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/fonseca2021.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+What TE?
+
+Focus on how teacher education (content course) influenced student teachers' knowledge, via self-report
+
+** Sample and teachers
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+md2(62)
+Student teachers (fut)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+Reflective journals
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+Qualitative (qal)
 * helmbold2021
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/helmbold2021.pdf
 :END:
 
+** Country and level
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA) and primary school (prm)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Seems like there is a focus on how Lesson Study might influence development of content knowledge
+
+What PD?
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+sma(6)
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+Qualitative (qal)
 * jacinto2020
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/jacinto2020.pdf
 :END:
+
+** Country and level
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Malawi (MAW)
+
+Pre-service teachers (fut)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+From considering the research question, the problem seems to be: What teachers know?
+
+But, I have to double-check if it is really about how TE influences knowledge.
+# There is not much focus on influence, but the focus is more on how PSTs understand MKT categories... 
+
+** Causal design and sample
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+Qualitative study (qal)
+
+md1(23)
+# Later on, it seems like six PSTs were interviewed, and if this is what is reported on, it might be sma(6)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+Questionnaire survey with open-ended items that focused on tasks of teaching
 
 * jita2019
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/jita2019.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+53+72: lrg(125)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+The research questions focus on effects of the intervention (PD), so the problem would be: What PD?
+
+It would thus be a study about development (dev)
+
+** Causal design and levels
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+Seems like this is a qualitative study (qal)
+# Quite interesting to have a qualitative design with 125 teachers! 
+
+Teachers were from different grade levels (all)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+LSIR (Lesson Study: individual Report), in other words self-report or portfolio
 * joubert2020
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/joubert2020.pdf
 :END:
 
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+When considering the research question, I wonder if this is a study of MKT after all... If so, it would be What PD?
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+md2(52)
 * kalobo2016
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/kalobo2016.pdf
 :END:
 
+** Participants and country
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+md2(66)
+
+Secondary teachers, grade 12 (sec)
+
+South Africa (RSA)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+Although the research question is formulated with a focus on teacher perceptions, I think the problem would be: What teachers know? 
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+This is very much a quantitative study (sta)
 * makonye2020b
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/makonye2020b.pdf
