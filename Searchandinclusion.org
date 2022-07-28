@@ -1182,9 +1182,9 @@ Next steps:
 In addition to the structured searches above, I conducted manual searches in AJRMSTE and Pythagoras journals. In AJRMSTE, I got 15 hits for the search term “mathematical knowledge for teaching”, 11 that were published after 2014. In Pythagoras, I got 31 hits for the same search term, but few seem directly relevant.
 
 Next steps:
-- [ ] Go through abstracts and decide which might be included
-- [ ] Collect Bibtex references
-- [ ] Download pdfs of included articles
+- [X] Go through abstracts and decide which might be included
+- [X] Collect Bibtex references
+- [X] Download pdfs of included articles
 - [ ] Code these articles
 
 Below are the hits from my search in AJRMSTE:
