@@ -1,0 +1,105 @@
+#+title: Analysis of included articles
+#+author: Reidar Mosvold
+
+* Codes of included articles
+| No. | Citation               | Inclusion | Country | Genre | Causal | Sample   | Instrument                   | Level | Teachers | Problem                         | Comment                                                   |
+|-----+------------------------+-----------+---------+-------+--------+----------+------------------------------+-------+----------+---------------------------------+-----------------------------------------------------------|
+|   1 | [[cite:&alex2019]]         |         1 | RSA     | oth   | sta    | md2(40)  | content test                 | all   | fut      | What teachers know?             |                                                           |
+|   2 | [[cite:&bansilal2014]]     |         1 | RSA     | oth   | sta    | lrg(253) | content test                 | sec   | prc      | What teachers know?             | Reports concern with poor knowledge                       |
+|   3 | [[cite:&bowie2019]]        |         1 | RSA     | oth   | sta    | lrg(770) | content test                 | prm   | fut      | What teachers know?             | Concern with poor knowledge                               |
+|   4 | [[cite:&chikiwa2019]]      |         1 | RSA     | nat   | qal    | sma(1)   | none                         | prm   | exp      | What relationships?             | Aspects of MKT are interconnected                         |
+|   5 | [[cite:&defreitas2019]]    |         1 | RSA     | nat   | sta    | lrg(93)  | TPACK                        | mid   | prc      | What relationships?             | TPACK                                                     |
+|   6 | [[cite:&feza2016]]         |         1 | RSA     | oth   | qal    | md1(17)  | scenario based questionnaire | prm   | prc      | What teachers know?             | Claims about influence, but only study what teachers know |
+|   7 | [[cite:&feza2018]]         |         1 | RSA     | dev   | qal    | md1(14)  | COEMET                       | prm   | prc      | What PD?                        | Development of knowledge                                  |
+|   8 | [[cite:&fonseca2015]]      |         1 | RSA     | dev   | sta    | lrg(108) | content test                 | mid   | fut      | What PD?                        | Improving knowledge in ITE                                |
+|   9 | [[cite:&fonseca2021]]      |         1 | RSA     | dev   | qal    | md2(62)  | self-report                  | prm   | fut      | What TE?                        | Content and pedagogical knowledge                         |
+|  10 | [[cite:&helmbold2021]]     |         1 | RSA     | dev   | qal    | sma(6)   | none                         | prm   | prc      | What PD?                        | Influence of LS on knowledge                              |
+|  11 | [[cite:&jacinto2020]]      |         1 | MAW     | oth   | qal    | sma(6)   | survey and interview         | prm   | fut      | What teachers know?             | Understanding of MKT                                      |
+|  12 | [[cite:&jita2019]]         |         1 | RSA     | dev   | qal    | lrg(125) | portfolio                    | all   | prc      | What PD?                        | Development of MKT                                        |
+|  13 | [[cite:&kalobo2016]]       |         1 | RSA     | oth   | sta    | md2(66)  | survey                       | sec   | prc      | What teachers know?             | Knowledge of learners                                     |
+|  14 | [[cite:&makonye2020b]]     |         1 | RSA     | nat   | qal    | md1(20)  | questionnaire/interview      | ter   | exp      | What is MKT?                    | Develop framework for financial mathematics PCK           |
+|  15 | [[cite:&msimango2020]]     |         1 | RSA     | dev   | qal    | md1(12)  | interviews                   | prm   | fut      | What TE?                        | Development of MKT                                        |
+|  16 | [[cite:&mwadzaangati2019]] |         1 | MAW     | nat   | qal    | sma(2)   | observation/interview        | sec   | exp      | What is MKT?                    | MKT for geometric proof                                   |
+|  17 | [[cite:&pournara2015]]     |         1 | RSA     | inf   | sta    | md1(21)  | content tests (pre/post)     | sec   | prc      | Contribute to student learning? | Impact of MKT on learning                                 |
+|  18 | [[cite:&setoromo2018]]     |         1 | LES     | oth   | sta    | md2(48)  | questionnaire                | prm   | prc      | What teachers know?             | Focus on lack of knowledge                                |
+|  19 | [[cite:&siyepui2021]]      |         1 | RSA     | oth   | qal    | md2(30)  | test                         | all   | fut      | What teachers know?             | Knowledge of future teachers                              |
+|  20 | [[cite:&spangenberg2021]]  |         1 | RSA     | inf   | qal    | md1(12)  | none                         | sec   | prc      | What contributes to practice    | Influence of MKT on practice                              |
+|  21 | [[cite:&ubah2018]]         |         1 | RSA     | oth   | qal    | md2(60)  | interviews                   | prm   | fut      | What teachers know?             | PSTs' MKT fractions                                       |
+|  22 | [[cite:&venkat2015]]       |         1 | RSA     | dev   | qal    | sma(1)   | observations, interviews     | prm   | prc      | How MKT develops?               | Developing MKT in TE                                      |
+|  23 | [[cite:&vermeulen2017]]    |         1 | RSA     | oth   | qal    | sma(3)   | questionnaire, interviews    | prm   | prc      | What teachers know?             | MKT and students' misconceptions                          |
+
+After a full coding of the 30 articles that were considered for inclusion, I ended up with a final sample of 23 studies that were included. Below are overviews of each code.
+
+* Frequencies of codes
+** Country
+The overwhelming majority of studies were conducted in South Africa (20 out of 23 studies). Two studies were conducted in Malawi, and one was from Lesotho. 
+
+| Country      | No. |
+|--------------+-----|
+| South Africa |  20 |
+| Malawi       |   2 |
+| Lesotho      |   1 |
+
+** Genre
+Almost half of the studies (n=10) had a focus on “other”, which in these cases indicated that they focused on evaluating teachers' knowledge. The underlying problem in these studies was: What teachers know?
+
+| Genre       | No. |
+|-------------+-----|
+| Other       |  10 |
+| Development |   7 |
+| Nature      |   4 |
+| Influence   |   2 |
+
+** Causal design
+
+| Type of causal design | No. |
+|-----------------------+-----|
+| Qualitative           |  15 |
+| Statistical           |   8 |
+
+** Sample size
+There was an even distribution of studies in terms of their sample size. 
+
+| Sample            | No. |
+|-------------------+-----|
+| Small-scale (<10) |   6 |
+| Medium 1 (10–29)  |   6 |
+| Medium 2 (30–70)  |   6 |
+| Large (>70)       |   5 |
+
+** Instrument
+Whereas Hoover et al. (2016) highlighted the promise of measures, it is striking to see that almost no studies from the African context used standardized measures to study mathematical knowledge for teaching. 
+
+** Level and teachers
+
+| Level         | No. |
+|---------------+-----|
+| Primary       |  12 |
+| Middle school |   2 |
+| Secondary     |   5 |
+| Tertiary      |   1 |
+| All           |   3 |
+
+| Teachers             | No. |
+|----------------------+-----|
+| Future teachers      |   8 |
+| Practicing teachers  |  12 |
+| Experienced teachers |   3 |
+
+** Problem
+Almost half of the studies were studies on what teachers know, and these studies tended to report on insufficient knowledge among teachers. 
+
+| Problem                         | No. |
+|---------------------------------+-----|
+| What teachers know?             |  10 |
+| What PD?                        |   4 |
+| What TE?                        |   2 |
+| What relationships?             |   2 |
+| What is MKT?                    |   2 |
+| Contribute to student learning? |   1 |
+| What contributes to practice?   |   1 |
+| How MKT develops?               |   1 |
+
+* References
+bibliographystyle:bath
+bibliography:mktafrica.bib
