@@ -5,38 +5,38 @@
 This file contains coding notes for the articles that are included in the literature review. Each heading below is linked to the pdf file of each article in the review by *org-noter*. The Bibtex citation for the article is used as heading.
 
 * Coding
-| No. | Citation               | Inclusion | Country | Genre | Causal | Sample   | Instrument                   | Level | Teachers | Problem             | Comment                                                   |
-|-----+------------------------+-----------+---------+-------+--------+----------+------------------------------+-------+----------+---------------------+-----------------------------------------------------------|
-|   1 | [[cite:&alex2019]]         |         1 | RSA     | oth   | sta    | md2(40)  | content test                 | all   | fut      | What teachers know? |                                                           |
-|   2 | [[cite:&bansilal2014]]     |         1 | RSA     | oth   | sta    | lrg(253) | content test                 | sec   | prc      | What teachers know? | Reports concern with poor knowledge                       |
-|   3 | [[cite:&bowie2019]]        |         1 | RSA     | oth   | sta    | lrg(770) | content test                 | prm   | fut      | What teachers know? | Concern with poor knowledge                               |
-|   4 | [[cite:&chigonga2019]]     |      nMKT |         |       |        |          |                              |       |          |                     | Not about MKT after all!                                  |
-|   5 | [[cite:&chikiwa2019]]      |         1 | RSA     | nat   | qal    | sma(1)   | none                         | prm   | exp      | What relationships? | Aspects of MKT are interconnected                         |
-|   6 | [[cite:&defreitas2019]]    |         1 | RSA     | nat   | sta    | lrg(93)  | TPACK                        | mid   | prc      | What relationships? | TPACK                                                     |
-|   7 | [[cite:&dhurumraj2020]]    |      nMKT |         |       |        |          |                              |       |          |                     | Not about MKT after all!                                  |
-|   8 | [[cite:&feza2016]]         |         1 | RSA     | oth   | qal    | md1(17)  | scenario based questionnaire | prm   | prc      | What teachers know? | Claims about influence, but only study what teachers know |
-|   9 | [[cite:&feza2018]]         |         1 | RSA     | dev   | qal    | md1(14)  | COEMET                       | prm   | prc      | What PD?            | Development of knowledge                                  |
-|  10 | [[cite:&fonseca2015]]      |         1 | RSA     | dev   | sta    | lrg(108) | content test                 | mid   | fut      | What PD?            | Improving knowledge in ITE                                |
-|  11 | [[cite:&fonseca2021]]      |         1 | RSA     | dev   | qal    | md2(62)  | self-report                  | prm   | fut      | What TE?            | Content and pedagogical knowledge                         |
-|  12 | [[cite:&helmbold2021]]     |         1 | RSA     | dev   | qal    | sma(6)   | none                         | prm   | prc      | What PD?            | Influence of LS on knowledge                              |
-|  13 | [[cite:&jacinto2020]]      |         1 | MAW     | oth   | qal    | sma(6)   | survey and interview         | prm   | fut      | What teachers know? | Understanding of MKT                                      |
-|  14 | [[cite:&jita2019]]         |         1 | RSA     | dev   | qal    | lrg(125) | portfolio                    | all   | prc      | What PD?            | Development of MKT                                        |
-|  15 | [[cite:&joubert2020]]      |      nMKT |         |       |        |          |                              |       |          |                     | The study is not about MKT after all!                     |
-|  16 | [[cite:&kalobo2016]]       |         1 | RSA     | oth   | sta    | md2(66)  | survey                       | sec   | prc      | What teachers know? | Knowledge of learners                                     |
-|  17 | [[cite:&makonye2020b]]     |         1 |         |       |        |          |                              |       |          |                     | COACTIV                                                   |
-|  18 | [[cite:&msimango2020]]     |         1 |         |       |        |          |                              |       |          |                     | Development of MKT                                        |
-|  19 | [[cite:&mwadzaangati2019]] |         1 |         |       |        |          |                              |       |          |                     | MKT for geometric proof                                   |
-|  20 | [[cite:&ngema2019]]        |         1 |         |       |        |          |                              |       |          |                     | Teachers' lack of MKT                                     |
-|  21 | [[cite:&pournara2015]]     |         1 |         |       |        |          |                              |       |          |                     | Impact of MKT on learning                                 |
-|  22 | [[cite:&setoromo2018]]     |         1 |         |       |        |          |                              |       |          |                     | What knowledge teachers have                              |
-|  23 | [[cite:&setoromo2020]]     |         1 |         |       |        |          |                              |       |          |                     | Possibly, but unclear                                     |
-|  24 | [[cite:&sibanda2021]]      |         1 |         |       |        |          |                              |       |          |                     | Learning of MKT                                           |
-|  25 | [[cite:&siyepui2021]]      |         1 |         |       |        |          |                              |       |          |                     | Development of MKT                                        |
-|  26 | [[cite:&spangenberg2021]]  |         1 |         |       |        |          |                              |       |          |                     | Influence of MKT on practice                              |
-|  27 | [[cite:&tachie2019]]       |         1 |         |       |        |          |                              |       |          |                     | Meta-cognitive skills                                     |
-|  28 | [[cite:&ubah2018]]         |         1 |         |       |        |          |                              |       |          |                     | PSTs' MKT fractions                                       |
-|  29 | [[cite:&venkat2015]]       |         1 |         |       |        |          |                              |       |          |                     | Developing MKT in TE                                      |
-|  30 | [[cite:&vermeulen2017]]    |         1 |         |       |        |          |                              |       |          |                     | MKT and students' misconceptions                          |
+| No. | Citation               | Inclusion | Country | Genre | Causal | Sample   | Instrument                   | Level | Teachers | Problem                         | Comment                                                   |
+|-----+------------------------+-----------+---------+-------+--------+----------+------------------------------+-------+----------+---------------------------------+-----------------------------------------------------------|
+|   1 | [[cite:&alex2019]]         |         1 | RSA     | oth   | sta    | md2(40)  | content test                 | all   | fut      | What teachers know?             |                                                           |
+|   2 | [[cite:&bansilal2014]]     |         1 | RSA     | oth   | sta    | lrg(253) | content test                 | sec   | prc      | What teachers know?             | Reports concern with poor knowledge                       |
+|   3 | [[cite:&bowie2019]]        |         1 | RSA     | oth   | sta    | lrg(770) | content test                 | prm   | fut      | What teachers know?             | Concern with poor knowledge                               |
+|   4 | [[cite:&chigonga2019]]     |      nMKT |         |       |        |          |                              |       |          |                                 | Not about MKT after all!                                  |
+|   5 | [[cite:&chikiwa2019]]      |         1 | RSA     | nat   | qal    | sma(1)   | none                         | prm   | exp      | What relationships?             | Aspects of MKT are interconnected                         |
+|   6 | [[cite:&defreitas2019]]    |         1 | RSA     | nat   | sta    | lrg(93)  | TPACK                        | mid   | prc      | What relationships?             | TPACK                                                     |
+|   7 | [[cite:&dhurumraj2020]]    |      nMKT |         |       |        |          |                              |       |          |                                 | Not about MKT after all!                                  |
+|   8 | [[cite:&feza2016]]         |         1 | RSA     | oth   | qal    | md1(17)  | scenario based questionnaire | prm   | prc      | What teachers know?             | Claims about influence, but only study what teachers know |
+|   9 | [[cite:&feza2018]]         |         1 | RSA     | dev   | qal    | md1(14)  | COEMET                       | prm   | prc      | What PD?                        | Development of knowledge                                  |
+|  10 | [[cite:&fonseca2015]]      |         1 | RSA     | dev   | sta    | lrg(108) | content test                 | mid   | fut      | What PD?                        | Improving knowledge in ITE                                |
+|  11 | [[cite:&fonseca2021]]      |         1 | RSA     | dev   | qal    | md2(62)  | self-report                  | prm   | fut      | What TE?                        | Content and pedagogical knowledge                         |
+|  12 | [[cite:&helmbold2021]]     |         1 | RSA     | dev   | qal    | sma(6)   | none                         | prm   | prc      | What PD?                        | Influence of LS on knowledge                              |
+|  13 | [[cite:&jacinto2020]]      |         1 | MAW     | oth   | qal    | sma(6)   | survey and interview         | prm   | fut      | What teachers know?             | Understanding of MKT                                      |
+|  14 | [[cite:&jita2019]]         |         1 | RSA     | dev   | qal    | lrg(125) | portfolio                    | all   | prc      | What PD?                        | Development of MKT                                        |
+|  15 | [[cite:&joubert2020]]      |      nMKT |         |       |        |          |                              |       |          |                                 | The study is not about MKT after all!                     |
+|  16 | [[cite:&kalobo2016]]       |         1 | RSA     | oth   | sta    | md2(66)  | survey                       | sec   | prc      | What teachers know?             | Knowledge of learners                                     |
+|  17 | [[cite:&makonye2020b]]     |         1 | RSA     | nat   | qal    | md1(20)  | questionnaire/interview      | ter   | exp      | What is MKT?                    | Develop framework for financial mathematics PCK           |
+|  18 | [[cite:&msimango2020]]     |         1 | RSA     | dev   | qal    | md1(12)  | interviews                   | prm   | fut      | What TE?                        | Development of MKT                                        |
+|  19 | [[cite:&mwadzaangati2019]] |         1 | MAW     | nat   | qal    | sma(2)   | observation/interview        | sec   | exp      | What is MKT?                    | MKT for geometric proof                                   |
+|  20 | [[cite:&ngema2019]]        |      nMKT | RSA     | oth   | qal    | sma(5)   | interview                    | prm   | not      | What PD?                        | How principals decide PD needs of teachers                |
+|  21 | [[cite:&pournara2015]]     |         1 | RSA     | inf   | sta    | md1(21)  | content tests (pre/post)     | sec   | prc      | Contribute to student learning? | Impact of MKT on learning                                 |
+|  22 | [[cite:&setoromo2018]]     |         1 | LES     | oth   | sta    | md2(48)  | questionnaire                | prm   | prc      | What teachers know?             | Focus on lack of knowledge                                |
+|  23 | [[cite:&setoromo2020]]     |      nMKT |         |       |        |          |                              |       |          |                                 | Possibly, but unclear                                     |
+|  24 | [[cite:&sibanda2021]]      |      nMKT |         |       |        |          |                              |       |          |                                 | Learning of MKT                                           |
+|  25 | [[cite:&siyepui2021]]      |         1 | RSA     | oth   | qal    | md2(30)  | test                         | all   | fut      | What teachers know?             | Knowledge of future teachers                              |
+|  26 | [[cite:&spangenberg2021]]  |         1 | RSA     | inf   | qal    | md1(12)  | none                         | sec   | prc      | What contributes to practice    | Influence of MKT on practice                              |
+|  27 | [[cite:&tachie2019]]       |      nMKT |         |       |        |          |                              |       |          |                                 | Meta-cognitive skills                                     |
+|  28 | [[cite:&ubah2018]]         |         1 | RSA     | oth   | qal    | md2(60)  | interviews                   | prm   | fut      | What teachers know?             | PSTs' MKT fractions                                       |
+|  29 | [[cite:&venkat2015]]       |         1 | RSA     | dev   | qal    | sma(1)   | observations, interviews     | prm   | prc      | How MKT develops?               | Developing MKT in TE                                      |
+|  30 | [[cite:&vermeulen2017]]    |         1 | RSA     | oth   | qal    | sma(3)   | questionnaire, interviews    | prm   | prc      | What teachers know?             | MKT and students' misconceptions                          |
 * alex2019
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/alex2019.pdf
@@ -615,71 +615,649 @@ This is very much a quantitative study (sta)
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/makonye2020b.pdf
 :END:
 
+** Country and participants
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Country is South Africa (RSA)
+
+md1(20)
+
+Participants are teacher educators, so ter and prc
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+Aim of developing framework to describe financial mathematics pedagogical content knowledge (fmPCK). So, the problem is probably: What is MKT? 
+
+** Teaching experience
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+
+Ranged from 8 to 33 years, with a mean of 21.6 years. So perhaps exp? 
+
+** Instruments
+:PROPERTIES:
+:NOTER_PAGE: 12
+:END:
+
+Questionnaire and group interviews
+
+** Analysis
+:PROPERTIES:
+:NOTER_PAGE: 13
+:END:
+
+Constant comparison and grounded theory (qal)
 * msimango2020
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/msimango2020.pdf
 :END:
 
+** Teachers
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Although mentors were also included the main focus seems to be on student teachers (fut), and participants were md1(12) primary (prm) student teachers. 
+
+** Development
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Overall focus seems to be on development of MKT
+
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+Focus on mentoring in TE, so I think it should be: What TE?
+
+** Analysis
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+Qualitative analysis (qal)
 * mwadzaangati2019
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/mwadzaangati2019.pdf
 :END:
 
+** Level
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Secondary school (sec)
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+sma(2)
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Qualitative case study (qal)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Observation and interviews
+
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Malawi (MAW)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+The research question indicates that there is a focus on evaluating what teachers know, but the conclusion focuses on what is entailed in the work. I therefore suggest that this is a study about the nature of MKT (nat), and that the problem is: What is MKT?
+
+** Teachers
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+The teachers were purposively sampled based on their experience (exp)
 * ngema2019
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/ngema2019.pdf
 :END:
+
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+I struggle to code the problem here, since the focus is only indirectly on MKT. Research question is: “How do principals identify professional development needs of foundation phase teachers in order to enhance their competencies?” (p. 759)
+
+** Level
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Foundation phase (grades 1–3), (prm)
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+Qualitative (qal)
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+
+sma(5), but the participants are principals and not teachers! 
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+
+Interviews
 
 * pournara2015
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/pournara2015.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Quasi-experimental design (qsi)
+
+** Level
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Grade 10 (sec)
+
+** Sample
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+The sample consists of students and teachers, and teachers in an intervention group and a control group. N=14+7, so md1(21)
+
+** Genre
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Focus on how knowledge gains influence learning, so (inf)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Contribute to student learning?
+
+** Teachers
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+Practicing teachers (prc)
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+Statistical analysis (sta)
 * setoromo2018
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/setoromo2018.pdf
 :END:
+
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Lesotho (LES)
+
+** Teachers and level
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Practicing (prc) Grade R teachers (prm)
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+md2(48)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Questionnaires (focusing on knowledge, so more like tests?)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Research question is: “What do Grade R teachers' written responses to a questionnaire reveal about their MKT of numeracy?” (p. 1)
+
+So, the problem is What teachers know?
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 9
+:END:
+
+Although there is a combination of qualitative and quantitative components in the analysis, I would say that the primary focus seems to be on very simple (percentages) statistics (sta)
 * setoromo2020
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/setoromo2020.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Lesotho (LES)
+
+** Teachers
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+In-service teachers (prc) teaching grade R (prm)
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Qualitative case study (qal)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+The problem focuses on understanding of teaching, and perhaps not directly on MKT?!
 * sibanda2021
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/sibanda2021.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+South Africa (RSA)
+
+** Teachers and sample
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+203 in-service teachers participated in PD, so lrg(203) and (prc)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+Survey/questionnaire
+
+** Focus and problem
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+Analysis focuses on participants' feelings about mentors and whether or not mentors helped them learn, so there is only a very weak (at best) focus on MKT here. 
 * siyepui2021
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/siyepui2021.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+30 pre-service teachers, so md2(30) and (fut)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Research questions focus on what lecturers can do to enhance pre-service teachers' knowledge, so I think it should be: What TE?
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+Qualitative descriptive case study (qal)
+
+** Purpose
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+The purpose seems to be to investigate PSTs' levels of knowledge... (What teachers know?)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+Content tasks
 * spangenberg2021
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/spangenberg2021.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Level
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Secondary school (sec)
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Twelve teachers, md1(12)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Focus is on how PCK manifests itself in practice, so Contribute to practice? or What contributes to practice? From looking at the discussion, I think the latter is most appropriate.
+
+** Research question
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+“How does PCK on trigonometry manifest itself in teachers' practice?” (p. 139)
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+Exploratory qualitative case study (qal)
+
+** Teachers
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+The teachers' experience ranged from 4 to 34 years, so it should probably be (prc)
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+none
+
+** Analysis
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+
+Although the authors claim to be using qualitative design, analysis reports primarily on counts! So, I might have to reconsider qal...
 * tachie2019
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/tachie2019.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+South Africa (RSA)
+
+** Teachers and sample
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Participants were three teachers from three primary schools.
+
+sma(3)
+
+prm
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Interviews and observations
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+The research question is: “How do teachers' use meta-cognitive skills in class in order to support learners' development of mathematics problem-solving?” (p. 145)
+
+** Design
+:PROPERTIES:
+:NOTER_PAGE: 9
+:END:
+
+Qualitative design (qal)
+
+** Focus
+:PROPERTIES:
+:NOTER_PAGE: 15
+:END:
+
+The focus in this study is on teaching, what teachers do, and in particular how they use meta-cognitive skills, and not so much on MKT. 
 * ubah2018
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/ubah2018.pdf
 :END:
 
+** Sample and teachers
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+60 pre-service teachers participated, so fut and md2(60)
+
+** Level
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+prm
+
+** Instrument
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+Task-based interviews
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+
+qal
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 10
+:END:
+
+The problem is not formulated as a research question in this paper, but the focus is clearly on What teachers know?
 * venkat2015
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/venkat2015.pdf
 :END:
 
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+South Africa (RSA)
+
+** Sample size
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Case study of one teacher, sma(1)
+
+** Focus
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+Development of knowledge (dev)
+
+** Teacher
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+The teacher was a practicing teacher, but he was not teaching mathematics this school year (prc)
+
+** Level
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+Grades 6 and 7 in primary school (prm) or perhaps mid since it is clearly in the range of 5–9?
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+
+Clearly qualitative focus (qal)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+
+The problem is a little bit unclear, but there is a focus on How MKT develops? so I think this should be the problem. 
 * vermeulen2017
 :PROPERTIES:
 :NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/vermeulen2017.pdf
 :END:
 
+** Sample and teachers
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
 
+Three grade 5 and 6 teachers participated, so sma(3) and prm
+
+** Causal design
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+Qualitative case study (qal)
+
+** Problem
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+In part, the problem relates to What teachers know? but there is also a focus on how teachers knowledge might influence students' learning. 
+
+** Country
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+South Africa (RSA)
+
+** Focus
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+
+Teachers had low levels of MKT of the equal sign
 * References
 bibliographystyle:bath
 bibliography:mktafrica.bib
