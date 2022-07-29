@@ -67,7 +67,8 @@ There was an even distribution of studies in terms of their sample size.
 | Medium 2 (30–70)  |   6 |
 | Large (>70)       |   5 |
 
-** Instrument
+** TODO Instrument
+# I have to make one more pass at the instrument codes, because these codes are not good enough! 
 Whereas Hoover et al. (2016) highlighted the promise of measures, it is striking to see that almost no studies from the African context used standardized measures to study mathematical knowledge for teaching. 
 
 ** Level and teachers
