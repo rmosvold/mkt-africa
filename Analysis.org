@@ -199,7 +199,7 @@ Almost half of the studies were studies on what teachers know, and these studies
 | What contributes to practice?   |   1 |
 | How MKT develops?               |   1 |
 
-* References and frameworks
+* Frameworks applied
 After having completed coding, I decided to consider what theoretical framework or foundations that were used in studies.
 
 Below, I use 0 or 1 to indicate if studies have unclear or theoretical framework (on MKT), and I then use 1 to indicate if a particular framework is primary, and 2 to indicate if it is a secondary framework (mentioned).
