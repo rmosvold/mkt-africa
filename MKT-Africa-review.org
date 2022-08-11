@@ -5,18 +5,187 @@
 * Introduction
 
 * Methods
+# Below is a first rough draft of the methods section <2022-08-11 Thu>.
+The present review builds on the previous review of literature on mathematical knowledge for teaching by [[cite:&hoover2016]], which studied literature from the period between 2006 and 2013. The African studies from that review were discussed more in depth by [[cite:&jakobsen2015]]. 
+
 ** Search
+The search for articles was conducted in three stages. First, a broad search was conducted in the Eric database for peer reviewed journal articles that included the search terms “mathematical knowledge for teaching” and “Africa”. This search gave nine results. A second and more extensive search was conducted in Eric for peer-reviewed journal articles in English that were published between 2014 and 2021. Search terms were “mathematics AND knowledge AND teaching” in the abstract, and in addition “Africa” as a location identifier. This search gave 72 articles. To avoid missing some important studies, manual searches were conducted in the archives of two prominent African journals in mathematics education: /African Journal of Mathematics, Science and Technology Education/ (AJRMSTE) and /Pythagoras/. These manual searches gave 15 hits in AJRMSTE, 11 of which were published after 2014. The search in /Pythagoras/ gave 31 hits.
+
 ** Inclusion
+From the searches described above, all search results were collected, and duplicates were removed. The result was 82 articles for potential inclusion in the review. The abstracts of these articles were then coded, in order to decide if the study was 1) an empirical study, that 2) investigated mathematical knowledge for teaching – broadly interpreted. After this initial coding phase, 30 studies were considered for inclusion. Some articles were excluded in this phase because they were theoretical articles [[citep:&askew2020]], and some were excluded because they were reviews of previous research and not empirical studies themselves [[citep:&adler2017]]. Most studies were excluded because they were not about mathematical knowledge for teaching. Many studies focused on learners or learners' knowledge rather than mathematical knowledge for teaching [[citep:&engelbrecht2015]], other studies focused on teaching practice or particular approaches to teaching [[citep:&ubah2021]], whereas some were studies of textbooks or curriculum studies [[citep:&bowie2016]].
+
+The next step was to get the full text of the 30 articles that were potentially included, and the full text of each of these articles were then coded. Through this phase of coding full texts of the articles, some additional articles were excluded because the studies did not turn out to have a primary focus on mathematical knowledge for teaching after all [[citep:&chigonga2019;&dhurumraj2020;&joubert2020;&ngema2019;&setoromo2020;&sibanda2021;&tachie2019]]. The final number of studies that were included in the review was thus N=23. 
+
 ** Coding
+Based on the previous review of [[cite:&hoover2016]], the articles were coded in terms of the following codes:
+- Genre of study
+- Causal design of the studies
+- Underlying problem that motivated studies
+- Sample size
+- Instruments that were used to study mathematical knowledge for teaching
+- Level of teachers or settings that were studied
+- Stage or experience of teachers
+- What country the study was conducted in
+
+In addition, notes were taken about what lessons were learned from each study, and the number of citations for each article was also recorded.   
+
+To exemplify the coding, the study by [[cite:&defreitas2019]] was coded to be a study that is primarily about studying the construct of mathematical knowledge for teaching (nature). It primarily used statistical data to show causality, and the underlying problem was coded to be “What relationships?” In other words, the underlying problem emphasised the relationships between different aspects of mathematical knowledge for teaching. This was a large-scale study (n=93), which applied the TPACK instrument to investigate mathematical knowledge for teaching among teachers in grades 7–9 (corresponding with middle school in the coding), and these were practicing teachers. The study was conducted in South Africa, and the article had 19 citations in Google Scholar at the time of coding. 
+
 ** Analysis
+Based on the coding of each article, frequencies of codes were generated to further investigate patterns across the studies. An additional round of analysis was conducted concerning the instrument of studies, since the initial coding indicated that few studies applied particular instruments with scores. More descriptive codes of the methods of study were developed inductively to provide a more meaningful overview of how the studies investigated mathematical knowledge for teaching. Through this phase of inductive coding of the methods of study, I also decided to consider the theoretical or analytic frameworks that were applied in the studies. These last two aspects of the analysis deviated from the previous review of [[cite:&hoover2016]], but were considered relevant for this review.
+
+To increase trustworthiness and transparency – and to provide a resource for other researchers – the entire process of this literature review has been documented extensively and all source files are available in a public Github repository. 
+
 * Results
+# In this first version of the results section, I start with the notes and tables from the analysis <2022-08-11 Thu>.
+
 ** Country
+The overwhelming majority of studies were conducted in South Africa (20 out of 23 studies). Two studies were conducted in Malawi, and one was from Lesotho. 
+
+| Country      | No. |
+|--------------+-----|
+| South Africa |  20 |
+| Malawi       |   2 |
+| Lesotho      |   1 |
+
 ** Problem and genre
+Almost half of the studies (n=10) had a focus on “other”, which in these cases indicated that they focused on evaluating teachers' knowledge. The underlying problem in these studies was: What teachers know?
+
+| Genre       | No. |
+|-------------+-----|
+| Other       |  10 |
+| Development |   7 |
+| Nature      |   4 |
+| Influence   |   2 |
+
+Almost half of the studies were studies on what teachers know, and these studies tended to report on insufficient knowledge among teachers. 
+
+| Problem                         | No. |
+|---------------------------------+-----|
+| What teachers know?             |  10 |
+| What PD?                        |   4 |
+| What TE?                        |   2 |
+| What relationships?             |   2 |
+| What is MKT?                    |   2 |
+| Contribute to student learning? |   1 |
+| What contributes to practice?   |   1 |
+| How MKT develops?               |   1 |
+
 ** Causal design
+
+| Type of causal design | No. |
+|-----------------------+-----|
+| Qualitative           |  15 |
+| Statistical           |   8 |
+
 ** Sample size
+
+There was an even distribution of studies in terms of their sample size. 
+
+| Sample            | No. |
+|-------------------+-----|
+| Small-scale (<10) |   6 |
+| Medium 1 (10–29)  |   6 |
+| Medium 2 (30–70)  |   6 |
+| Large (>70)       |   5 |
+
 ** Level and teachers
+
+| Level         | No. |
+|---------------+-----|
+| Primary       |  12 |
+| Middle school |   2 |
+| Secondary     |   5 |
+| Tertiary      |   1 |
+| All           |   3 |
+
+| Teachers             | No. |
+|----------------------+-----|
+| Future teachers      |   8 |
+| Practicing teachers  |  12 |
+| Experienced teachers |   3 |
+
 ** Frameworks
+After having completed coding, I decided to consider what theoretical framework or foundations that were used in studies.
+
+Below, I use 0 or 1 to indicate if studies have unclear or theoretical framework (on MKT), and I then use 1 to indicate if a particular framework is primary, and 2 to indicate if it is a secondary framework (mentioned).
+
+| No. | Citation               | Clear | MKT | COACTIV | TPACK | APOS | PCK | TEDS-M |
+|-----+------------------------+-------+-----+---------+-------+------+-----+--------|
+|   1 | [[cite:&alex2019]]         |     1 |   1 |         |       |      |   2 |        |
+|   2 | [[cite:&bansilal2014]]     |     1 |   2 |         |       |    1 |     |        |
+|   3 | [[cite:&bowie2019]]        |     1 |   1 |         |       |      |     |      2 |
+|   4 | [[cite:&chikiwa2019]]      |     1 |   1 |         |       |      |   2 |        |
+|   5 | [[cite:&defreitas2019]]    |     1 |     |         |     1 |      |   2 |        |
+|   6 | [[cite:&feza2016]]         |     0 |     |         |       |      |     |        |
+|   7 | [[cite:&feza2018]]         |     0 |     |         |       |      |     |        |
+|   8 | [[cite:&fonseca2015]]      |     0 |   2 |         |       |      |   2 |        |
+|   9 | [[cite:&fonseca2021]]      |     0 |     |         |       |      |     |        |
+|  10 | [[cite:&helmbold2021]]     |     0 |     |         |       |      |     |        |
+|  11 | [[cite:&jacinto2020]]      |     1 |   1 |         |       |      |   2 |        |
+|  12 | [[cite:&jita2019]]         |     0 |     |         |       |      |     |        |
+|  13 | [[cite:&kalobo2016]]       |     0 |   3 |         |       |      |     |        |
+|  14 | [[cite:&makonye2020b]]     |     1 |   2 |       1 |       |      |   2 |        |
+|  15 | [[cite:&msimango2020]]     |     1 |   2 |       2 |       |      |   1 |      2 |
+|  16 | [[cite:&mwadzaangati2019]] |     0 |   2 |         |       |      |     |        |
+|  17 | [[cite:&pournara2015]]     |     0 |   2 |       2 |       |      |   2 |        |
+|  18 | [[cite:&setoromo2018]]     |     1 |   1 |         |       |      |   2 |        |
+|  19 | [[cite:&siyepui2021]]      |     1 |   1 |         |       |      |   2 |        |
+|  20 | [[cite:&spangenberg2021]]  |     1 |   1 |         |       |      |   2 |        |
+|  21 | [[cite:&ubah2018]]         |     1 |     |         |       |    1 |     |        |
+|  22 | [[cite:&venkat2015]]       |     0 |     |         |       |      |     |        |
+|  23 | [[cite:&vermeulen2017]]    |     1 |   1 |         |       |      |   2 |        |
+
+In summary, 13 out of the 23 studies was specific about their theoretical framework, whereas 10 did not have a clear framework, or were unclear about how they conceptualized mathematical knowledge for teaching.
+
+For those who presented a clear theoretical framework, below is an overview of the primary and secondary theoretical frameworks:
+
+| Frameworks | Primary | Secondary |
+|------------+---------+-----------|
+| MKT        |       8 |         6 |
+| PCK        |       1 |        11 |
+| COACTIV    |       1 |         2 |
+| APOS       |       2 |           |
+| TEDS-M     |         |         2 |
+| TPACK      |       1 |           |
+
+In other words, the by far most studies in this literature review had the MKT framework of Ball et al. (2008) as their primary theoretical framework, and several also emphasized this framwork when presenting their theoretical framework, although it was not their primary framework. Only one study had PCK as a theoretical framework [[citep:&msimango2020]], and they used the /Clearly/ PCK framework by Chick et al. (2006), but almost half of the studies emphasized the conceptualization of PCK (mostly with reference to Shulman). Almost all of the studies that had MKT as a primary framework emphasized its connections with Shulman's (1986, 1987) conceptualization of PCK. One study had COACTIV as their primary theoretical framework [[citep:&makonye2020b]], whereas two referred to this. Two studies applied the APOS theory of Dubinsky (1991) as their primary theoretical framework [[citep:&bansilal2014;&ubah2018]], whereas one used TPACK as their primary framework [[cite:&defreitas2019]]. Two studies gave prominence to the TEDS-M framework, but none of the studies in this review used it as a primary framework. 
+# Caveat: Although studies were included in this review and thus considered to be about mathematical knowledge for teaching, they do not necessarily consider themselves to be studies of MKT. Comments about “unclear” framework thus need to be carefully formulated in the paper!
+
 ** Instrument
+After having grappled with how to code instruments, I decided to consider instruments in relation to the problem of the study.
+
+| No. | Citation               | Instrument                          | Problem                         |
+|-----+------------------------+-------------------------------------+---------------------------------|
+|   1 | [[cite:&alex2019]]         | national math exam                  | What teachers know?             |
+|   2 | [[cite:&bansilal2014]]     | national math exam (adjusted)       | What teachers know?             |
+|   3 | [[cite:&bowie2019]]        | math content test                   | What teachers know?             |
+|   6 | [[cite:&feza2016]]         | scenario based questionnaire        | What teachers know?             |
+|  11 | [[cite:&jacinto2020]]      | questionnaire (self-report)         | What teachers know?             |
+|  13 | [[cite:&kalobo2016]]       | questionnaire (perceptions)         | What teachers know?             |
+|  18 | [[cite:&setoromo2018]]     | questionnaire (test)                | What teachers know?             |
+|  19 | [[cite:&siyepui2021]]      | math content test                   | What teachers know?             |
+|  23 | [[cite:&vermeulen2017]]    | math content test                   | What teachers know?             |
+|  21 | [[cite:&ubah2018]]         | interviews                          | What teachers know?             |
+|   4 | [[cite:&chikiwa2019]]      | none                                | What relationships?             |
+|   5 | [[cite:&defreitas2019]]    | TPACK                               | What relationships?             |
+|   7 | [[cite:&feza2018]]         | COEMET                              | What PD?                        |
+|   8 | [[cite:&fonseca2015]]      | math content test                   | What PD?                        |
+|  10 | [[cite:&helmbold2021]]     | questionnaire (self-report)         | What PD?                        |
+|  12 | [[cite:&jita2019]]         | portfolio (self-report)             | What PD?                        |
+|   9 | [[cite:&fonseca2021]]      | self-report                         | What TE?                        |
+|  15 | [[cite:&msimango2020]]     | interviews (self-report)            | What TE?                        |
+|  14 | [[cite:&makonye2020b]]     | questionnaire/interview (test)      | What is MKT?                    |
+|  16 | [[cite:&mwadzaangati2019]] | observation/interview               | What is MKT?                    |
+|  17 | [[cite:&pournara2015]]     | math test (for learners!)           | Contribute to student learning? |
+|  20 | [[cite:&spangenberg2021]]  | observation/interview/documentation | What contributes to practice    |
+|  22 | [[cite:&venkat2015]]       | observations, interviews            | How MKT develops?               |
+
+Among the studies of what teachers know, most included some kind of mathematics content test. A couple of these were drawing upon some kind of national mathematics certificate test for teachers [[citep:&alex2019;&bansilal2014]], whereas many developed their own tests, often based on existing measures or frameworks [[citep:&bowie2019]]. Whereas many instruments had a primary focus on mathematical content, a few included some kind of scenario or teaching context [[citep:&feza2016]]. Although most studies in this category involved some kind of content test, there was also an example that included a self-report questionnaire [[citep:&jacinto2020]], and one that involved a questionnaire that focused on participants' perceptions [[citep:&kalobo2016]].
+
+Six studies explored what PD or TE influence mathematical knowledge for teaching. Most of these studies used instruments that involved some kind of self-report, either through interviews [[citep:&msimango2020]], questionnaires [[citep:&helmbold2021]], portfolios [[citep:&jita2019]] or self-report journals [[citep:&fonseca2021]]. One study applied a standardized observation protocol (COEMET) to assess practice [[citep:&feza2018]], and one study used a mathematics content test [[citep:&fonseca2015]].
+
+The two studies that explored what mathematical knowledge for teaching is both used a combination of interviews with questionnaires or observations [[citep:&makonye2020b;&mwadzaangati2019]]. Amont the two studies that investigated relationships between different aspects of knowledge, one of these used a standardized TPACK instrument [[citep:&defreitas2019]]. A study of what contributes to student learning used mathematics learner tests [[citep:&pournara2015]], a study of what contributes to practice used a combination of observations, interviews and other documentation like lesson plans [[citep:&spangenberg2021]], whereas a study of how mathematical knowledge for teaching developes used a combination of observations of interviews [[citep:&venkat2015]].
 
 * Discussion
 ** Main focus on what teachers know
@@ -30,4 +199,4 @@
 
 * References
 bibliographystyle:bath
-bibliography:mktafrica.bib
+bibliography:references.bib
