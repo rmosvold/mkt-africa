@@ -3,6 +3,18 @@
 #+SETUPFILE: Harvard-template.org
 
 * Introduction
+After several decades of process-product research, [[cite:&shulman1986]] identified the lack of content-focus as a “missing paradign” in research on teaching. His distinction between content knowledge and pedagogical content knowledge indicated that there are several types of knowledge of content that are special to teaching. Following Shulman, there has been a continually growing body of research that investigates various aspects of content knowledge for teaching. In mathematics education, we often refer to this as mathematical knowledge for teaching. Although this term is often used with reference to the mathematical knowledge for teaching (MKT) framework of [[cite:&balletal2008]], arguably among the most commonly used frameworks in this field of research, we use it here in more generic terms.
+
+Research on mathematical knowledge for teaching is flourishing, and the fact that a key publication like that of [[cite:&balletal2008]] has over 9000 citations, at the time of writing this, testifies to this. In their review of research on mathematical knowledge for teaching, [[cite:&hoover2016]] analysed 190 journal articles that were published on this topic between 2006 and 2013. The majority of those articles were published in North America, Asia and Europe, and only seven of the articles in that review were from Africa. In a more careful examination of this subset of studies on mathematical knowledge for teaching from Africa, [[cite:&jakobsen2015]] suggest that more research is needed, in particular on the primary level and among pre-service teachers. They also noticed that few studies used standardised measures, and they suggested that more studies of mathematical knowledge for teaching in Africa should use existing measures. Based on these previous reviews, the present study revisits and reviews research more recent research on mathematical knowledge for teaching in Africa, focusing on research that has been published between 2014 and 2021. The following research question is approached:
+
+#+begin_quote
+What characterises research on mathematical knowledge for teaching in Africa from 2014 to 2021? 
+#+end_quote
+
+* Previous studies
+To provide some more context, the present section briefly describes some main tendencies in previous research on mathematical knowledge for teaching in Africa – drawing primarily upon the review by [[cite:&jakobsen2015]].
+
+# Develop a brief description of trends in previous research
 
 * Methods
 # Below is a first rough draft of the methods section <2022-08-11 Thu>.
