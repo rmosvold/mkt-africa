@@ -3,7 +3,13 @@
 
 * Search
 ** Search 1
-I made a search in the Eric database on <2022-06-02 Thu> with search terms “mathematical knowledge for teaching” AND Africa in peer reviewed journal articles. This gave 9 hits.
+I made a search in the Eric database on <2022-06-02 Thu>.
+
+Search terms:
+
+“mathematical knowledge for teaching” AND Africa in peer reviewed journal articles.
+
+This search gave 9 hits, which are documented below. 
 
 #+begin_src bibtex
 @article{EJ101550720130901,
