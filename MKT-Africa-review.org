@@ -7,12 +7,11 @@ Background: A previous review of literature on mathematical knowledge for teachi
 
 Aim: The aim of the literature review is to investigate trends in peer-reviewed journal articles on mathematical knowledge for teaching in Africa in the period from 2014 to 2021. 
 
-Methods: After a three-step search and initial coding, 23 studies were included in the review. Studies were coded in terms of genre, type of study, research problem, sample size, instruments, level and experience of teachers, location of the study and frameworks applied. 
+Methods: After a three-step search and initial coding, 24 studies were included in the review. Studies were coded in terms of genre, type of study, research problem, sample size, instruments, level and experience of teachers, location of the study and frameworks applied. 
 
 Results: As compared to the previous literature review, there was variation in sample size, genre of the studies, as well as in the level and experience of participating teachers, and this indicates a field in positive development. Yet, there is a significant geographical lack of balance, as a majority of studies were conducted in South Africa. In addition, there is a predominance of studies that investigate what knowledge teachers have, and many studies provide a deficit view of teachers' lack of knowledge. 
 
 Conclusion and Contribution: Based on the trends in the studies reviewed, a shift in focus from teachers and their (lack of) knowledge to the knowledge demands of teaching is suggested. An emphasis on exploring what is involved in teaching mathematics in African contexts might provide a productive turn in research that would be of international interest and significance. 
-
 
 * Introduction
 After several decades of process-product research, [[cite:&shulman1986]] identified the lack of content-focus as a “missing paradigm” in research on teaching. By distinguishing between content knowledge, pedagogical content knowledge and curriculum knowledge, he suggested that there are several types of knowledge of content that are important for teaching. Following Shulman, a continually growing body of research has investigated various aspects of content knowledge for teaching. In mathematics education, we often refer to this as mathematical knowledge for teaching. Although this term is often used with reference to the mathematical knowledge for teaching (MKT) framework of [[cite:&balletal2008]], arguably among the most commonly used frameworks in this field of research, we use it here in more generic terms.
@@ -43,7 +42,7 @@ The search for articles was conducted in three stages. First, a broad search was
 ** Inclusion
 All search results from the three search phases were collected, and duplicates were removed. The result was 82 articles for potential inclusion in the review. The abstracts of these articles were then coded, in order to decide if the study was 1) an empirical study, that 2) investigated mathematical knowledge for teaching – broadly interpreted. After this initial coding phase, 30 studies were considered for inclusion. Some articles were excluded in this phase because they were theoretical articles [[citep:&askew2020]], and some were excluded because they were reviews of previous research and not empirical studies themselves [[citep:&adler2017]]. Most studies were excluded because they were not about mathematical knowledge for teaching. Many studies focused on learners and their knowledge rather than on mathematical knowledge for teaching [[citep:&engelbrecht2015]], some studies focused on teaching practice or particular approaches to teaching [[citep:&ubah2021]] with no emphasis on knowledge or entailed knowledge demands, and some were studies of textbooks or curriculum studies [[citep:&bowie2016]].
 
-The next step was to download the full text of the 30 articles that were considered for inclusion. These articles were then coded as described below. From this coding phase, seven additional articles were excluded because they did not turn out to have a primary focus on mathematical knowledge for teaching after all [[citep:&chigonga2019;&dhurumraj2020;&joubert2020;&ngema2019;&setoromo2020;&sibanda2021;&tachie2019]]. The final number of studies that were included in the review was thus N=23. 
+The next step was to download the full text of the 30 articles that were considered for inclusion. These articles were then coded as described below. From this coding phase, seven additional articles were excluded because they did not turn out to have a primary focus on mathematical knowledge for teaching after all [[citep:&chigonga2019;&dhurumraj2020;&joubert2020;&ngema2019;&setoromo2020;&tachie2019]]. The final number of studies that were included in the review was thus N=24. 
 
 ** Coding
 Based on a slightly adjusted coding manual from the previous review of [[cite:&hoover2016]], the articles were coded in terms of the following categories with example codes where relevant:
@@ -74,10 +73,11 @@ Based on a slightly adjusted coding manual from the previous review of [[cite:&h
   - prc (practising teachers
   - bth (both pre-service and in-service teachers in focus)
 - What country the study was conducted in
+- Lessons learned
 
 In addition, the number of citations for each article was also recorded, to get an indication about the impact of each study. 
 
-As an example, to illustrate the coding, the study by [[cite:&defreitas2019]] was coded to be primarily about investigating the construct of mathematical knowledge for teaching (nature). It primarily used statistical data to show causality, and the underlying problem was coded to be “What relationships?” In other words, the underlying problem emphasised the relationships between different aspects of mathematical knowledge for teaching. This was a large-scale study (n=93), and it applied the TPACK instrument to investigate mathematical knowledge for teaching among teachers in grades 7–9 (mid), and the participants were practising teachers (prc). The study was conducted in South Africa, and the article had 19 citations in Google Scholar at the time of coding. The number of citations was relatively high (fourth overall), in particular when considering that the publication year was as recent as 2019. 
+As an example, to illustrate the coding, the study by [[cite:&defreitas2019]] was coded to be primarily about investigating the construct of mathematical knowledge for teaching (nature). It primarily used statistical data to show causality, and the underlying problem was coded to be “What relationships?” In other words, the underlying problem emphasised the relationships between different aspects of mathematical knowledge for teaching. This was a large-scale study (n=93), and it applied the TPACK instrument to investigate mathematical knowledge for teaching among teachers in grades 7–9 (mid), and the participants were practising teachers (prc). The study was conducted in South Africa, and the article had 19 citations in Google Scholar at the time of coding. The number of citations was relatively high (fourth overall), in particular when considering that the publication year was as recent as 2019. Based on their analysis, the authors argued that attending to teachers' levels of TPACK is important for continuous professional development, and this was considered to be the main lesson learned from the study. 
 
 ** Analysis
 Based on the coding of each article, frequencies of codes were generated to further explore patterns across the studies. An additional round of analysis was conducted concerning the instrument of studies, since the initial coding indicated that few studies applied use of standardised measures with scores. Descriptive codes of the methods of study were developed inductively to provide a more meaningful overview of how the studies investigated mathematical knowledge for teaching. Through this phase of inductive coding of the methods of study, the theoretical or analytic frameworks that were applied in the studies were also considered. These last two aspects of the analysis deviated from the previous review of [[cite:&hoover2016]], but were considered relevant for this review.
@@ -87,42 +87,48 @@ To increase trustworthiness and transparency – and to provide a resource for o
 * Results and discussion
 This section presents results from the review of research on mathematical knowledge for teaching in Africa (2014–2021), and discusses the results in comparison with previous reviews. After an initial consideration of where the studies are from, subsections follow that explore the focus of studies, methods used and frameworks applied. 
 
-In the previous review by [[cite:&jakobsen2015]], five out of seven papers on mathematical knowledge for teaching were from South Africa. The present review includes 23 studies, and the overwhelming majority of studies were conducted in South Africa (20 out of 23 studies). Two studies were conducted in Malawi, and one was from Lesotho. This indicates that research on mathematical knowledge for teaching has continued to flourish in South Africa, but – with a few notable exceptions – there is not much research on this topic elsewhere in Africa. 
+In the previous review by [[cite:&jakobsen2015]], five out of seven papers on mathematical knowledge for teaching were from South Africa. The present review includes 23 studies, and the overwhelming majority of studies were conducted in South Africa (21 out of 24 studies). Two studies were conducted in Malawi, and one was from Lesotho. This indicates that research on mathematical knowledge for teaching has continued to flourish in South Africa, but – with a few notable exceptions – there is not much research on this topic elsewhere in Africa. 
 
-** Focus of studies
+** Focus and contribution of studies
 There are different approaches to describe the focus of a research study. This review considers the genre of the study – if it is a study concerning the nature of knowledge, development of knowledge, influence of knowledge on some other factor, or if it has a focus other than this – and the underlying problem of the study. The latter does not refer to the research question as formulated by the authors, but rather to a more general notion of what is interpreted to be the underlying problem of the study. 
 
-When considering the genre of study, it can be noted that almost half of the studies (n=10) had a focus on “other”, which in these cases indicated that they focused on evaluating teachers' knowledge. The underlying problem in these studies was: What teachers know?
+#+caption: Table 1: Focus, genre and contribution of studies
+| No. | Citation               | Country | Genre | Problem                         | Lesson                                      |
+|-----+------------------------+---------+-------+---------------------------------+---------------------------------------------|
+|   1 | [[cite:&alex2019]]         | RSA     | oth   | What teachers know?             | Lack of knowledge                           |
+|   2 | [[cite:&bansilal2014]]     | RSA     | oth   | What teachers know?             | Lack of knowledge                           |
+|   3 | [[cite:&bowie2019]]        | RSA     | oth   | What teachers know?             | Lack of knowledge                           |
+|   4 | [[cite:&chikiwa2019]]      | RSA     | nat   | What relationships?             | KCT is foundational                         |
+|   5 | [[cite:&defreitas2019]]    | RSA     | nat   | What relationships?             | Attending to aspects of knowledge important |
+|   6 | [[cite:&feza2016]]         | RSA     | oth   | What teachers know?             | Lack of knowledge                           |
+|   7 | [[cite:&feza2018]]         | RSA     | dev   | What PD?                        | Lack of knowledge                           |
+|   8 | [[cite:&fonseca2015]]      | RSA     | dev   | What PD?                        | Lack of knowledge                           |
+|   9 | [[cite:&fonseca2021]]      | RSA     | dev   | What TE?                        | Attending to aspects of knowledge important |
+|  10 | [[cite:&helmbold2021]]     | RSA     | dev   | What PD?                        | LS influenced knowledge                     |
+|  11 | [[cite:&jacinto2020]]      | MAW     | oth   | What teachers know?             | PSTs emphasise particular knowledge         |
+|  12 | [[cite:&jita2019]]         | RSA     | dev   | What PD?                        | LS influenced knowledge                     |
+|  13 | [[cite:&kalobo2016]]       | RSA     | oth   | What teachers know?             | Lack of knowledge                           |
+|  14 | [[cite:&makonye2020b]]     | RSA     | nat   | What is MKT?                    | Lack of knowledge                           |
+|  15 | [[cite:&msimango2020]]     | RSA     | dev   | What TE?                        | Mentors can hinder knowledge development    |
+|  16 | [[cite:&mwadzaangati2019]] | MAW     | nat   | What is MKT?                    | Supporting knowledge development is complex |
+|  17 | [[cite:&pournara2015]]     | RSA     | inf   | Contribute to student learning? | MKT influences student learning             |
+|  18 | [[cite:&setoromo2018]]     | LES     | oth   | What teachers know?             | Lack of knowledge                           |
+|  19 | [[cite:&sibanda2021]]      | RSA     | dev   | What PD?                        | Mentors can influence knowledge development |
+|  20 | [[cite:&siyepui2021]]      | RSA     | oth   | What teachers know?             | Tasks can influence knowledge development   |
+|  21 | [[cite:&spangenberg2021]]  | RSA     | inf   | What contributes to practice    | PCK influences practice                     |
+|  22 | [[cite:&ubah2018]]         | RSA     | oth   | What teachers know?             | Lack of knowledge                           |
+|  23 | [[cite:&venkat2015]]       | RSA     | dev   | How MKT develops?               | Development is possible                     |
+|  24 | [[cite:&vermeulen2017]]    | RSA     | oth   | What teachers know?             | Lack of knowledge                           |
 
-#+caption: Table 1: Overall focus of studies
-| Genre       | No. |
-|-------------+-----|
-| Other       |  10 |
-| Development |   7 |
-| Nature      |   4 |
-| Influence   |   2 |
+When considering the genre of study, it can be noted that almost half of the studies (n=10) had a focus on “other”, which in these cases indicated that they focused on evaluating teachers' knowledge. The underlying problem in these studies was: What teachers know? This tendency is interesting in comparison to what [[cite:&hoover2016]] found in their review of research on mathematical knowledge for teaching globally. Only 11% of the studies in that review focused on what teachers know, whereas almost half of the studies had a focus on development of mathematical knowledge for teaching, and 28.9% had a focus on the nature of this knowledge. 
 
-This tendency is interesting in comparison to what [[cite:&hoover2016]] found in their review of research on mathematical knowledge for teaching globally. Only 11% of the studies in that review focused on what teachers know, whereas almost half of the studies had a focus on development of mathematical knowledge for teaching, and 28.9% had a focus on the nature of this knowledge. 
+When considering the underlying problem in the African studies in this review, we notice that almost half of the studies focused on what teachers know (n=10), and these studies tended to report on insufficient knowledge among teachers. A selection of studies focused on how teacher education or professional development might influence mathematical knowledge for teaching (n=4 and n=2). Among the four studies on the nature of mathematical knowledge for teaching, two had a focus on relationships between different aspects of knowledge, and two explored what mathematical knowledge for teaching is. Only one study investigated how mathematical knowledge contributes to student learning [[citep:&pournara2015]], one study focused on its contribution to practice [[citep:&spangenberg2021]], and only one study explored how mathematical knowledge for teaching develops [[citep:&venkat2015]]. In the next section, we consider the problem of studies in relation to the overall methods applied. 
 
-When considering the underlying problem in the African studies in this review, we notice that almost half of the studies focused on what teachers know, and these studies tended to report on insufficient knowledge among teachers. 
-
-#+caption: Table 2: Underlying problem in studies
-| Problem                         | No. |
-|---------------------------------+-----|
-| What teachers know?             |  10 |
-| What PD?                        |   4 |
-| What TE?                        |   2 |
-| What relationships?             |   2 |
-| What is MKT?                    |   2 |
-| Contribute to student learning? |   1 |
-| What contributes to practice?   |   1 |
-| How MKT develops?               |   1 |
-
-A selection of studies focused on how teacher education or professional development might influence mathematical knowledge for teaching (n=4 and n=2). Among the four studies on the nature of mathematical knowledge for teaching, two had a focus on relationships between different aspects of knowledge, and two explored what mathematical knowledge for teaching is. Only one study investigated how mathematical knowledge contributes to student learning [[citep:&pournara2015]], one study focused on its contribution to practice [[citep:&spangenberg2021]], and only one study explored how mathematical knowledge for teaching develops [[citep:&venkat2015]]. In the next section, we consider the problem of studies in relation to the overall methods applied. 
+It is not easy to provide a short and accurate description of the main conclusions or lessons learned from a study, and the brief descriptions in table 1 only provide a simplified representation. Still, it is worth noting that almost half of the studies (n=11) seem to tell a story about teachers' leack of knowledge. Some studies indicate that teachers lack even foundational understanding of mathematics, whereas other studies identify a lack of deep understanding of the mathematical content. We also notice how a couple of studies argue that Lesson Study might positively influence mathematical knowledge for teaching [[citep:&helmbold2021;&jita2019]]. Results from the studies seem to imply that development of mathematical knowledge for teaching is possible [[citep:&venkat2015]], but supporting this development can be a complex and involved work [[citep:&mwadzaangati2019]]. One study reported that mentors can hinder knowledge development [[cite:&msimango2020]], whereas another study indicated that mentors can positively influence development of teachers' knowledge – even if there are tensions between mentors and mentees [[citep:&sibanda2021]]. Yet another study provided interesting indications about how particular tasks that are carefully connected with practice might positively influence development of mathematical knowledge for teaching [[cite:&siyepui2021]]. The two studies about influence of knowledge indicate that teachers' knowledge can influence students' learning as well as practice [[citep:&pournara2015;&spangenberg2021]]
 
 ** Methods
 
-#+caption: Table 3: Overview of methods in studies 
+#+caption: Table 2: Overview of methods in studies 
 | Study                  |   N | Design | Level | Teachers | Problem                         | Instrument                          |
 |------------------------+-----+--------+-------+----------+---------------------------------+-------------------------------------|
 | [[cite:&alex2019]]         |  40 | sta    | all   | fut      | What teachers know?             | national math exam                  |
@@ -160,7 +166,7 @@ After having completed coding, I decided to consider what theoretical or concept
 
 Table 4 provides an overview of whether or not studies are clear about their theoretical framework or conceptual understanding of mathematical knowledge for teaching, and of what is described as a primary (1) or secondary (2) framework in the article. Typically, an article with a clear framework would specify a primary (and possibly secondary) framework or theoretical grounding of how they consider mathematical knowledge for teaching in the study. Articles with no clear framework do not specify a primary framework for understanding mathematical knowledge for teaching, but they might mention some frameworks without specifying that these were frameworks applied in the study. 
 
-#+caption: Table 4: Frameworks used or referred to in studies
+#+caption: Table 3: Frameworks used or referred to in studies
 | No. | Citation               | Clear | MKT | COACTIV | TPACK | APOS | PCK | TEDS-M |
 |-----+------------------------+-------+-----+---------+-------+------+-----+--------|
 |   1 | [[cite:&alex2019]]         | YES   |   1 |         |       |      |   2 |        |
@@ -189,7 +195,7 @@ Table 4 provides an overview of whether or not studies are clear about their the
 
 In summary, 13 out of the 23 studies were specific about their theoretical framework, whereas 10 did not have a clear framework, or were unclear about how they conceptualised mathematical knowledge for teaching. Table 5 provides an overview of the most common primary and secondary theoretical frameworks in the studies reviewed.
 
-#+caption: Table 5: Primary and secondary framework  in studies
+#+caption: Table 4: Primary and secondary framework  in studies
 | Frameworks | Primary | Secondary |
 |------------+---------+-----------|
 | MKT        |       8 |         7 |
