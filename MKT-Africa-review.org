@@ -7,15 +7,15 @@
 #+LaTeX_CLASS_OPTIONS: [doc]
 
 * Abstract
-Background: A previous review of literature on mathematical knowledge for teaching in Africa indicated that most studies were small, qualitative studies that did not apply existing measures. The present literature review explores trends in more recent research from 2014–2021.
+*Background*: A previous review of literature on mathematical knowledge for teaching in Africa indicated that most studies were small, qualitative studies that did not apply existing measures. The present literature review explores trends in more recent research from 2014–2021.
 
-Aim: The aim of the literature review is to investigate trends in peer-reviewed journal articles on mathematical knowledge for teaching in Africa in the period from 2014 to 2021. 
+*Aim*: The aim of the literature review is to investigate trends in peer-reviewed journal articles on mathematical knowledge for teaching in Africa in the period from 2014 to 2021. 
 
-Methods: After a three-step search and initial coding, 24 studies were included in the review. Studies were coded in terms of genre, type of study, research problem, sample size, instruments, level and experience of teachers, location of the study and frameworks applied. 
+*Methods*: After a three-step search and initial coding, 24 studies were included in the review. Studies were coded in terms of genre, type of study, research problem, sample size, instruments, level and experience of teachers, location of the study and frameworks applied. 
 
-Results: As compared to the previous literature review, there was variation in sample size, genre of the studies, as well as in the level and experience of participating teachers, and this indicates a field in positive development. Yet, there is a significant geographical lack of balance, as a majority of studies were conducted in South Africa. In addition, there is a predominance of studies that investigate what knowledge teachers have, and many studies provide a deficit view of teachers' lack of knowledge. 
+*Results*: As compared to the previous literature review, there was variation in sample size, genre of the studies, as well as in the level and experience of participating teachers, and this indicates a field in positive development. Yet, there is a significant geographical lack of balance, as a majority of studies were conducted in South Africa. In addition, there is a predominance of studies that investigate what knowledge teachers have, and many studies provide a deficit view of teachers' lack of knowledge. 
 
-Conclusion and Contribution: Based on the trends in the studies reviewed, a shift in focus from teachers and their (lack of) knowledge to the knowledge demands of teaching is suggested. An emphasis on exploring what is involved in teaching mathematics in African contexts might provide a productive turn in research that would be of international interest and significance. 
+*Conclusion and Contribution*: Based on the trends in the studies reviewed, a shift in focus from teachers and their (lack of) knowledge to the knowledge demands of teaching is suggested. An emphasis on exploring what is involved in teaching mathematics in African contexts might provide a productive turn in research that would be of international interest and significance. 
 
 * Introduction
 After several decades of process-product research, [[cite:&shulman1986]] identified the lack of content-focus as a “missing paradigm” in research on teaching. By distinguishing between content knowledge, pedagogical content knowledge and curriculum knowledge, he suggested that there are several types of knowledge of content that are important for teaching. Following Shulman, a continually growing body of research has investigated various aspects of content knowledge for teaching. In mathematics education, we often refer to this as mathematical knowledge for teaching. Although this term is often used with reference to the mathematical knowledge for teaching (MKT) framework of [[cite:&balletal2008]], arguably among the most commonly used frameworks in this field of research, we use it here in more generic terms.
@@ -41,12 +41,10 @@ In summary, studies on mathematical knowledge for teaching in Africa – from 20
 The present review builds on the approach of the previous review of literature on mathematical knowledge for teaching by [[cite:&hoover2016]], which investigated literature from the period between 2006 and 2013, and on the review of the African subset of literature in that review [[citep:&jakobsen2015]]. Below follows an elaboration of the choices that were made concerning search and inclusion of literature, coding of articles and analysis of results.
 
 ** Search
-The search for articles was conducted in three stages. First, a broad search was conducted in the Eric database for peer-reviewed journal articles that included the search terms “mathematical knowledge for teaching” and “Africa”. This search only gave nine results, indicating that the search terms might have been too narrow. A second and more extensive search was conducted in Eric for peer-reviewed journal articles in English that were published between 2014 and 2021. Search terms were “mathematics AND knowledge AND teaching” in the abstract, and in addition “Africa” as a location identifier. This search gave 72 articles. To avoid missing important studies, manual searches were conducted in the archives of two prominent African journals in mathematics education: /African Journal of Mathematics, Science and Technology Education/ (AJRMSTE) and /Pythagoras/. These manual searches gave 15 hits in AJRMSTE, 11 of which were published after 2014. The search in /Pythagoras/ gave 31 hits.
+The search for articles was conducted in three stages. First, a broad search was conducted in the Eric database for peer-reviewed journal articles that included the search terms “mathematical knowledge for teaching” and “Africa”. This search only gave nine results, indicating that the search terms might have been too narrow. A second and more extensive search was conducted in Eric for peer-reviewed journal articles in English that were published between 2014 and 2021. Search terms were “mathematics AND knowledge AND teaching” in the abstract, and in addition “Africa” as a location identifier. This search gave 79 articles. To avoid missing important studies, manual searches were conducted in the archives of two prominent African journals in mathematics education: /African Journal of Mathematics, Science and Technology Education/ (AJRMSTE) and /Pythagoras/. These manual searches gave 15 hits in AJRMSTE, 11 of which were published after 2014. The search in /Pythagoras/ gave 31 hits.
 
 ** Inclusion
-All search results from the three search phases were collected, and duplicates were removed. The result was 82 articles for potential inclusion in the review. The abstracts of these articles were then coded, in order to decide if the study was 1) an empirical study, that 2) investigated mathematical knowledge for teaching – broadly interpreted. After this initial coding phase, 30 studies were considered for inclusion. Some articles were excluded in this phase because they were theoretical articles [[citep:&askew2020]], and some were excluded because they were reviews of previous research and not empirical studies themselves [[citep:&adler2017]]. Most studies were excluded because they were not about mathematical knowledge for teaching. Many studies focused on learners and their knowledge rather than on mathematical knowledge for teaching [[citep:&engelbrecht2015]], some studies focused on teaching practice or particular approaches to teaching [[citep:&ubah2021]] with no emphasis on knowledge or entailed knowledge demands, and some were studies of textbooks or curriculum studies [[citep:&bowie2016]].
-
-The next step was to download the full text of the 30 articles that were considered for inclusion. These articles were then coded as described below. From this coding phase, seven additional articles were excluded because they did not turn out to have a primary focus on mathematical knowledge for teaching after all [[citep:&chigonga2019;&dhurumraj2020;&joubert2020;&ngema2019;&setoromo2020;&tachie2019]]. The final number of studies that were included in the review was thus N=24. 
+All search results from the three search phases were collected, and duplicates were removed. The result was 86 articles for potential inclusion in the review. The abstracts of these articles were then coded, in order to decide if the study was 1) an empirical study, that 2) investigated mathematical knowledge for teaching – broadly interpreted. Some articles were excluded in this phase because they were theoretical articles [[citep:&askew2020]], and some were excluded because they were reviews of previous research and not empirical studies themselves [[citep:&adler2017]]. Most studies were excluded because they were not about mathematical knowledge for teaching. After this initial coding phase, 30 studies remained and were coded in full. Seven additional articles were excluded in this phase, and the final number of studies that were included in the review was thus N=24. 
 
 ** Coding
 Based on a slightly adjusted coding manual from the previous review of [[cite:&hoover2016]], the articles were coded in terms of the following categories with example codes where relevant:
@@ -166,40 +164,9 @@ Six studies explored what or how professional development (PD) or teacher educat
 The two studies that explored what mathematical knowledge for teaching is (What is MKT?) both used a combination of interviews with questionnaires or observations [[citep:&makonye2020b;&mwadzaangati2019]]. Among the two studies that investigated relationships between different aspects of knowledge, one of these used a standardised TPACK instrument [[citep:&defreitas2019]]. A study of what contributes to student learning used mathematics learner tests [[citep:&pournara2015]], a study of what contributes to practice used a combination of observations, interviews and other documentation like lesson plans [[citep:&spangenberg2021]], whereas a study of how mathematical knowledge for teaching develops used a combination of observations of interviews [[citep:&venkat2015]].
 
 ** Frameworks applied
-After having completed coding, I decided to consider what theoretical or conceptual frameworks that were applied in studies.
+After having completed coding, I decided to consider what theoretical or conceptual frameworks that were applied in studies. Some articles had a clear framework, whereas others did not. Typically, an article with a clear framework would specify a primary (and possibly secondary) framework or theoretical grounding of how they consider mathematical knowledge for teaching in the study. Articles with no clear framework do not specify a primary framework for understanding mathematical knowledge for teaching, but they might mention some frameworks without specifying that these were frameworks applied in the study. In summary, 13 out of the 23 studies were specific about their theoretical framework, whereas 10 did not have a clear framework, or were unclear about how they conceptualised mathematical knowledge for teaching. Table 3 provides an overview of the most common primary and secondary theoretical frameworks in the studies reviewed.
 
-Table 4 provides an overview of whether or not studies are clear about their theoretical framework or conceptual understanding of mathematical knowledge for teaching, and of what is described as a primary (1) or secondary (2) framework in the article. Typically, an article with a clear framework would specify a primary (and possibly secondary) framework or theoretical grounding of how they consider mathematical knowledge for teaching in the study. Articles with no clear framework do not specify a primary framework for understanding mathematical knowledge for teaching, but they might mention some frameworks without specifying that these were frameworks applied in the study. 
-
-#+caption: Table 3: Frameworks used or referred to in studies
-| No. | Citation               | Clear | MKT | COACTIV | TPACK | APOS | PCK | TEDS-M |
-|-----+------------------------+-------+-----+---------+-------+------+-----+--------|
-|   1 | [[cite:&alex2019]]         | YES   |   1 |         |       |      |   2 |        |
-|   2 | [[cite:&bansilal2014]]     | YES   |   2 |         |       |    1 |     |        |
-|   3 | [[cite:&bowie2019]]        | YES   |   1 |         |       |      |     |      2 |
-|   4 | [[cite:&chikiwa2019]]      | YES   |   1 |         |       |      |   2 |        |
-|   5 | [[cite:&defreitas2019]]    | YES   |     |         |     1 |      |   2 |        |
-|   6 | [[cite:&feza2016]]         | NO    |     |         |       |      |     |        |
-|   7 | [[cite:&feza2018]]         | NO    |     |         |       |      |     |        |
-|   8 | [[cite:&fonseca2015]]      | NO    |   2 |         |       |      |   2 |        |
-|   9 | [[cite:&fonseca2021]]      | NO    |     |         |       |      |     |        |
-|  10 | [[cite:&helmbold2021]]     | NO    |     |         |       |      |     |        |
-|  11 | [[cite:&jacinto2020]]      | YES   |   1 |         |       |      |   2 |        |
-|  12 | [[cite:&jita2019]]         | NO    |     |         |       |      |     |        |
-|  13 | [[cite:&kalobo2016]]       | NO    |   2 |         |       |      |     |        |
-|  14 | [[cite:&makonye2020b]]     | YES   |   2 |       1 |       |      |   2 |        |
-|  15 | [[cite:&msimango2020]]     | YES   |   2 |       2 |       |      |   1 |      2 |
-|  16 | [[cite:&mwadzaangati2019]] | NO    |   2 |         |       |      |     |        |
-|  17 | [[cite:&pournara2015]]     | NO    |   2 |       2 |       |      |   2 |        |
-|  18 | [[cite:&setoromo2018]]     | YES   |   1 |         |       |      |   2 |        |
-|  19 | [[cite:&siyepui2021]]      | YES   |   1 |         |       |      |   2 |        |
-|  20 | [[cite:&spangenberg2021]]  | YES   |   1 |         |       |      |   2 |        |
-|  21 | [[cite:&ubah2018]]         | YES   |     |         |       |    1 |     |        |
-|  22 | [[cite:&venkat2015]]       | NO    |     |         |       |      |     |        |
-|  23 | [[cite:&vermeulen2017]]    | YES   |   1 |         |       |      |   2 |        |
-
-In summary, 13 out of the 23 studies were specific about their theoretical framework, whereas 10 did not have a clear framework, or were unclear about how they conceptualised mathematical knowledge for teaching. Table 5 provides an overview of the most common primary and secondary theoretical frameworks in the studies reviewed.
-
-#+caption: Table 4: Primary and secondary framework  in studies
+#+caption: Table 3: Primary and secondary framework  in studies
 | Frameworks | Primary | Secondary |
 |------------+---------+-----------|
 | MKT        |       8 |         7 |
