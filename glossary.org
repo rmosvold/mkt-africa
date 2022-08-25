@@ -10,10 +10,10 @@ Coding of articles in this literature review follows a slightly adapted version 
 # These codes have been adjusted and simplified to fit better with what Hoover et al. focused on in their discussion of results. 
 Decide which of the types below best describes what the article reports about MKT (choose one). 
 
-- nat: If it is primarily about studying MKT/bMKT as a construct (nature) (e.g.,  what it is or ought to be, how it is conceptualized, what parts make it up, what it looks like, how it can be measured or observed, the development of measures, how its parts relate to each other).
+- nat: If it is primarily about studying MKT as a construct (nature) (e.g.,  what it is or ought to be, how it is conceptualized, what parts make it up, what it looks like, how it can be measured or observed, the development of measures, how its parts relate to each other).
 - dev: If it is primarily about development of MKT.
 - inf: If it is primarily about influence of MKT on other variables like teaching or learning.
-- oth: If it has other focus, for instance if it is primarily about teachers (observation or assessment) (e.g., level or nature of teachers' MKT/bMKT, differences in teachers' MKT/bMKT, what teachers think about MKT/bMKT, who teachers are as learners of MKT).
+- oth: If it has other focus, for instance if it is primarily about teachers (observation or assessment) (e.g., level or nature of teachers' MKT, differences in teachers' MKT, what teachers think about MKT, who teachers are as learners of MKT).
 
 ** Causal design
 Decide whether causality is studied, and if so, how (choose one).
@@ -30,18 +30,18 @@ Decide the larger problem motivating the study (a single question). This may be 
 - What is MKT?   
 - What relationships? (among different aspects of MKT/bMKT or between MKT/bMKT and variables not specifically identified below)
 - How MKT develops?
-- What PD? (improves MKT/bMKT)
-- What TE? (improves MKT/bMKT)
-- What tasks? (improve MKT) /bMKT 
-- What teaching? (practices improve MKT/bMKT)
-- What curricula? (or curricular features improve MKT/bMKT)
-- How to scale up? (How to scale up the teaching and learning of MKT/bMKT) 
-- What teachers know? (about MKT/bMKT)  
-- Contribute to practice? (Does MKT/bMKT contribute to practice) 
-- What contribute to practice? (What does MKT/bMKT contribute to practice) 
-- Contribute to student learning? (Does MKT/bMKT contribute to student learning) 
-- What contribute to student learning? (What does MKT/bMKT contribute to student learning)
-- Policy influence MKT? (How policy influences MKT/bMKT) 
+- What PD? (improves MKT)
+- What TE? (improves MKT)
+- What tasks? (improve MKT) 
+- What teaching? (practices improve MKT)
+- What curricula? (or curricular features improve MKT)
+- How to scale up? (How to scale up the teaching and learning of MKT) 
+- What teachers know? (about MKT)  
+- Contribute to practice? (Does MKT contribute to practice) 
+- What contribute to practice? (What does MKT contribute to practice) 
+- Contribute to student learning? (Does MKT contribute to student learning) 
+- What contribute to student learning? (What does MKT contribute to student learning)
+- Policy influence MKT? (How policy influences MKT) 
 
 ** Sample size
 Record the sample size. To determine sample size, ask how the methods are using a subset of a population (the sample) to make a claim about the full population — to generalize. 
@@ -53,7 +53,7 @@ Record the sample size. To determine sample size, ask how the methods are using 
 
 If there are comparison groups, the sample size is the smaller of the two.  If it is an empirical paper, yet no sample size is discernable, record xxx.
 
-** MKT instrument
+** TODO MKT instrument
 List scoring instruments used for MKT, where the instrument gives a score and scores are reported. 
 
 - not  If no instrument (with scores) is used.
@@ -83,7 +83,7 @@ Decide the stage of the teachers who are the primary focus of the study (choose 
 ** Country
 Record country(ies) specifically studied (up to 4). Indicate all if more than 4.  Use the IOC three-letter codes: http://en.wikipedia.org/wiki/List_of_IOC_country_codes.
 
-** Lessons learned
+** TODO Lessons learned
 Decide whether or not any evidence is provided that would seem to constitute lessons learned for the field.  This is about judging quality of the work and about what might be worth reporting on.  It is not about whether you agree with claims, but about whether the research as designed provides data and analysis that yield a supported result that the field should heed.  To decide this, be sure to identify the research questions, the design of the study to get at those research questions, and whether the data collected and analysis carried out yielded new information with regard to questions.
 
 - not:  If there are no lessons learned.
