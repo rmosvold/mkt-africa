@@ -1,6 +1,10 @@
 #+title: Mathematical knowledge for teaching in Africa 2014–2021: A review of literature
 #+author: Reidar Mosvold
-#+SETUPFILE: Harvard-template.org
+#+options: toc:nil
+#+csl-style: harvard.csl
+#+LaTeX_CLASS: apa6
+#+LaTeX_CLASS_OPTIONS: [a4paper]
+#+LaTeX_CLASS_OPTIONS: [doc]
 
 * Abstract
 Background: A previous review of literature on mathematical knowledge for teaching in Africa indicated that most studies were small, qualitative studies that did not apply existing measures. The present literature review explores trends in more recent research from 2014–2021.
@@ -218,5 +222,5 @@ A second observation concerns the frameworks applied. It is not surprising that 
 The third and final observation is related to the instruments applied in studies. [[cite:&hoover2016]] emphasised the promise of developing and using measures of mathematical knowledge for teaching, and [[cite:&jakobsen2015]] called for more use of existing measures in their review of research on mathematical knowledge for teaching in Africa between 2006 and 2013. Although many recent African studies do involve some kind of mathematics content tests, it is interesting to observe that almost no studies use standardised measures of /mathematical knowledge for teaching/. For instance, although many refer to the MKT framework of [[cite:&balletal2008]], none of the African studies in this review applied their measures. There are some examples of studies that have explored use of measures in African contexts [[citep:&cole2011]], and there are also examples of similar research that has escaped the search in this literature review – the study by [[cite:&kazima2016]] is a notable example – and much can be learned from such attempts. For instance, one might learn that many core demands of teaching are similar across cultural contexts, even though many other aspects of teaching and classrooms differ. This implies that a potentially productive line of research in the African context might be to explore the mathematical tasks of teaching that can be identified in African contexts and consider their entailed mathematical demands, very much like Professor Mercy Kazima emphasised and illustrated in her plenary lecture at the 14th International Congress on Mathematical Education (ICME-14). 
 
 * References
-bibliographystyle:bath
+bibliographystyle:apacite
 bibliography:references.bib
