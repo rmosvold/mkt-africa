@@ -1179,10 +1179,12 @@ Year = {2014/01/01/},
 #+end_src
 
 Next steps:
-- [ ] Create more meaningful Bibtex-entries and save to .bib file
-- [ ] Go through abstracts to identify potentially included articles
-- [ ] Download full pdfs of the included articles
-- [ ] Code the included articles
+- [X] Create more meaningful Bibtex-entries and save to .bib file
+- [X] Go through abstracts to identify potentially included articles
+- [X] Download full pdfs of the included articles
+- [X] Code the included articles
+
+When I tried to recreate this search in the [[https://eric.ed.gov/?q=abstract%3A%22mathematics%22+AND+abstract%3A%22knowledge%22+AND+abstract%3A%22teaching%22+AND+location%3A%22Africa%22+pubyearmin%3A2014+pubyearmax%3A2021&pr=on][open version of the ERIC search engine]], I wasn't able to get the exact same results, since this version is slightly different from the premiere version we have access to through the university library. The open version gave 84 hits instead of 72. 
 
 ** Search 3
 In addition to the structured searches above, I conducted manual searches in AJRMSTE and Pythagoras journals. In AJRMSTE, I got 15 hits for the search term “mathematical knowledge for teaching”, 11 that were published after 2014. In Pythagoras, I got 31 hits for the same search term, but few seem directly relevant.
