@@ -53,13 +53,15 @@ Record the sample size. To determine sample size, ask how the methods are using 
 
 If there are comparison groups, the sample size is the smaller of the two.  If it is an empirical paper, yet no sample size is discernable, record xxx.
 
-** TODO MKT instrument
-List scoring instruments used for MKT, where the instrument gives a score and scores are reported. 
+** Instrument
+# The original review by Hoover et al. (2016) had other codes here, which were restricted to whether or not studies used standardized measures (and used abbreviations of those measures as codes)
 
-- not  If no instrument (with scores) is used.
-- unt: If the instrument is psychometrically untested . (The point here is about the instrument, not items. Using items from a standard measure, but not psychometrically testing the new instrument beyond internal reliability and nominal expert review is coded as unt.)
-- [acronym] adp:  If it is a psychometrically tested adaptation from a known standard (beyond internal reliability and nominal expert review), then give the acronym and adp (e.g., "DTAMS adp").
-- [acronym]:  If the instrument is a known standard with psychometric testing, give its acronym. (Currently known standards include DTAMS, COACTIV, LMT, TEDS-M, and CVA(Kersting).)
+Inductive coding of instrument(s) used to study mathematical knowledge for teaching.
+
+Example codes:
+- math content test
+- questionnaire
+- interview
 
 ** Level
 Decide which level of teachers or setting are being studied (choose one):   
@@ -83,14 +85,5 @@ Decide the stage of the teachers who are the primary focus of the study (choose 
 ** Country
 Record country(ies) specifically studied (up to 4). Indicate all if more than 4.  Use the IOC three-letter codes: http://en.wikipedia.org/wiki/List_of_IOC_country_codes.
 
-** TODO Lessons learned
-Decide whether or not any evidence is provided that would seem to constitute lessons learned for the field.  This is about judging quality of the work and about what might be worth reporting on.  It is not about whether you agree with claims, but about whether the research as designed provides data and analysis that yield a supported result that the field should heed.  To decide this, be sure to identify the research questions, the design of the study to get at those research questions, and whether the data collected and analysis carried out yielded new information with regard to questions.
-
-- not:  If there are no lessons learned.
-
-If there are any lessons learned, decide on at most two.  For each, quote 1-3 sentences from the paper (verbatim). Ideally, these sentences will give both: (i) evidence for the claim; and (ii) an interpretation of the evidence that explains its significance.  For each lesson, score its quality:
-
-1. Clear/strong evidence that would stand up to broad agreement.
-2. Moderate evidence, but with clear concerns/limitations.
-3. Weak but intriguing/suggestive evidence.
-
+** Lessons learned
+Brief restatement of the main contribution or message in the study.
