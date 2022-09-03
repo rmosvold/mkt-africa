@@ -39,7 +39,7 @@ This file contains coding notes for the articles that are included in the litera
 |  30 | [[cite:&vermeulen2017]]    |         1 | RSA     | oth   | qal    | sma(3)   | questionnaire, interviews    | prm   | prc      | What teachers know?             | Lack of knowledge                                   |
 * alex2019
 :PROPERTIES:
-:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/alex2019.pdf
+:NOTER_DOCUMENT: ~/Google Drive/Emacs/bibliography/bibtex-pdfs/alex2019.pdf
 :END:
 
 ** Lesson                                                            :Lesson:
@@ -86,7 +86,7 @@ Mathematics test
 Use of descriptive statistics
 * bansilal2014
 :PROPERTIES:
-:NOTER_DOCUMENT: ~/Dropbox/Emacs/bibliography/bibtex-pdfs/bansilal2014.pdf
+:NOTER_DOCUMENT: ~/Google Drive/Emacs/bibliography/bibtex-pdfs/bansilal2014.pdf
 :END:
 ** Country
 :PROPERTIES:
