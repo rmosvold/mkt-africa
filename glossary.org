@@ -10,19 +10,19 @@ Coding of articles in this literature review follows a slightly adapted version 
 # These codes have been adjusted and simplified to fit better with what Hoover et al. focused on in their discussion of results. 
 Decide which of the types below best describes what the article reports about MKT (choose one). 
 
-- nat: If it is primarily about studying MKT as a construct (nature) (e.g.,  what it is or ought to be, how it is conceptualized, what parts make it up, what it looks like, how it can be measured or observed, the development of measures, how its parts relate to each other).
-- dev: If it is primarily about development of MKT.
-- inf: If it is primarily about influence of MKT on other variables like teaching or learning.
-- oth: If it has other focus, for instance if it is primarily about teachers (observation or assessment) (e.g., level or nature of teachers' MKT, differences in teachers' MKT, what teachers think about MKT, who teachers are as learners of MKT).
+- /nat/: If it is primarily about studying MKT as a construct (nature) (e.g.,  what it is or ought to be, how it is conceptualized, what parts make it up, what it looks like, how it can be measured or observed, the development of measures, how its parts relate to each other).
+- /dev/: If it is primarily about development of MKT.
+- /inf/: If it is primarily about influence of MKT on other variables like teaching or learning.
+- /oth/: If it has other focus, for instance if it is primarily about teachers (observation or assessment) (e.g., level or nature of teachers' MKT, differences in teachers' MKT, what teachers think about MKT, who teachers are as learners of MKT).
 
 ** Causal design
 Decide whether causality is studied, and if so, how (choose one).
 
-- not:  If causality is not studied.
-- qal:  If primarily a qualitative analysis of features used to provide associative evidence of causality.
-- sta:  If primarily statistical data (correlations or quantitative associations) is used to show causality.
-- qsi:  If results of a control-treatment design are used to provide evidence of causality, and the treatment does not use random assignment but uses techniques that assign to treatment and control with a criterion other than random assignment (such as distribution based on pretest scores) and uses techniques based on this assignment (i.e., not just assuming random assignment, for instance, propensity score matching, panel analysis, instrumental var, case-control, ...)
-- exp:  If results of a defensibly randomized control trial are used to provide evidence of causality
+- /not/:  If causality is not studied.
+- /qal/:  If primarily a qualitative analysis of features used to provide associative evidence of causality.
+- /sta/:  If primarily statistical data (correlations or quantitative associations) is used to show causality.
+- /qsi/:  If results of a control-treatment design are used to provide evidence of causality, and the treatment does not use random assignment but uses techniques that assign to treatment and control with a criterion other than random assignment (such as distribution based on pretest scores) and uses techniques based on this assignment (i.e., not just assuming random assignment, for instance, propensity score matching, panel analysis, instrumental var, case-control, ...)
+- /exp/:  If results of a defensibly randomized control trial are used to provide evidence of causality
 
 ** Problem
 Decide the larger problem motivating the study (a single question). This may be the same or different from what is specifically investigated. In general, use the introduction and conclusion to determine the problem to which the study is meant to contribute. 
@@ -46,10 +46,10 @@ Decide the larger problem motivating the study (a single question). This may be 
 ** Sample size
 Record the sample size. To determine sample size, ask how the methods are using a subset of a population (the sample) to make a claim about the full population — to generalize. 
 
-- sma(#):  If  the sample size is <10
-- md1(#):  If the sample size is in the range 10-29
-- md2(#):  If the sample size is in the range 30-70
-- lrg(#):  If the sample size is >70
+- /sma(#)/:  If  the sample size is <10
+- /md1(#)/:  If the sample size is in the range 10-29
+- /md2(#)/:  If the sample size is in the range 30-70
+- /lrg(#)/:  If the sample size is >70
 
 If there are comparison groups, the sample size is the smaller of the two.  If it is an empirical paper, yet no sample size is discernable, record xxx.
 
@@ -66,21 +66,21 @@ Example codes:
 ** Level
 Decide which level of teachers or setting are being studied (choose one):   
 
-- prm:  If primary or K-8 or a subset other than middle. 
-- mid:  If clear indication of middle grades or something roughly in the range of 5-9. 
-- sec:  If secondary or 7-13 of a subset other than middle.
-- ter:  If tertiary or post-secondary focus. 
-- all:  If the range is broader than any above or no particular group is identified.
+- /prm/:  If primary or K-8 or a subset other than middle. 
+- /mid/:  If clear indication of middle grades or something roughly in the range of 5-9. 
+- /sec/:  If secondary or 7-13 of a subset other than middle.
+- /ter/:  If tertiary or post-secondary focus. 
+- /all/:  If the range is broader than any above or no particular group is identified.
 
 ** Teachers
 Decide the stage of the teachers who are the primary focus of the study (choose one).  
 
-- not: If not yet in a teacher preparation program (rare, but MKT is started before TE).
-- fut:  If future, prospective, or pre-service teachers are the focus.
-- beg: If beginning teachers (1-3 yrs) are the focus (not student teachers).
-- exp: If experienced teachers are the focus.
-- prc: If practicing teachers are the focus without specifically focusing on beginning or experienced. 
-- bth: If both pre-service and in-service teachers are the focus. 
+- /not/: If not yet in a teacher preparation program (rare, but MKT is started before TE).
+- /fut/:  If future, prospective, or pre-service teachers are the focus.
+- /beg/: If beginning teachers (1-3 yrs) are the focus (not student teachers).
+- /exp/: If experienced teachers are the focus.
+- /prc/: If practicing teachers are the focus without specifically focusing on beginning or experienced. 
+- /bth/: If both pre-service and in-service teachers are the focus. 
 
 ** Country
 Record country(ies) specifically studied (up to 4). Indicate all if more than 4.  Use the IOC three-letter codes: http://en.wikipedia.org/wiki/List_of_IOC_country_codes.
