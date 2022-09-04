@@ -46,7 +46,7 @@ Decide the larger problem motivating the study (a single question). This may be 
 ** Sample size
 Record the sample size. To determine sample size, ask how the methods are using a subset of a population (the sample) to make a claim about the full population — to generalize. 
 
-- /sma(#)/:  If  the sample size is <10
+- /sma(#)/:  If the sample size is <10
 - /md1(#)/:  If the sample size is in the range 10-29
 - /md2(#)/:  If the sample size is in the range 30-70
 - /lrg(#)/:  If the sample size is >70

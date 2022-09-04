@@ -70,8 +70,7 @@ There was an even distribution of studies in terms of their sample size.
 | Medium 2 (30–70)  |   6 |
 | Large (>70)       |   6 |
 
-** DONE Instrument
-CLOSED: [2022-08-09 Tue 08:08]
+** Instrument
 # I have made another pass at the included articles with a focus on instruments, since the initial coding here was lacking. 
 Whereas Hoover et al. (2016) highlighted the promise of measures, it is striking to see that almost no studies from the African context used standardized measures to study mathematical knowledge for teaching. 
 
@@ -115,8 +114,7 @@ Six studies explored what PD or TE influence mathematical knowledge for teaching
 
 The two studies that explored what mathematical knowledge for teaching is both used a combination of interviews with questionnaires or observations [[citep:&makonye2020b;&mwadzaangati2019]]. Amont the two studies that investigated relationships between different aspects of knowledge, one of these used a standardized TPACK instrument [[citep:&defreitas2019]]. A study of what contributes to student learning used mathematics learner tests [[citep:&pournara2015]], a study of what contributes to practice used a combination of observations, interviews and other documentation like lesson plans [[citep:&spangenberg2021]], whereas a study of how mathematical knowledge for teaching developes used a combination of observations of interviews [[citep:&venkat2015]].
 
-*** DONE Focus on CCK (and some PCK)
-CLOSED: [2022-08-09 Tue 08:53]
+*** Focus on CCK (and some PCK)
 After having reviewed studies of what teachers know, it struck me that most of them seemed to emphasize CCK. I decided to check out this hypothesis further.
 
 [[cite:&alex2019]] used the SLDCK test, which focused on pure mathematics domains like:
